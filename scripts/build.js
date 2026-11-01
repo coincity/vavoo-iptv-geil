@@ -39,7 +39,7 @@ const EPG_URL =
 // only — the displayed name is unchanged.
 function normalizeForCategory(name) {
   let s = String(name || "")
-    .replace(/^\s*4K TR:\s*/i, "")
+    .replace(/^\s*4K ES:\s*/i, "")
     .replace(/\s+(?:UHD|FHD|HD\+|HD|SD|HEVC|RAW|H265|H\.265|FEED)(?=\s|$)/gi, " ")
     .replace(/\s*\.(?:b|c|s)\b/gi, "")
     .replace(/\s+/g, " ")
@@ -68,7 +68,7 @@ const CATEGORY_RULES = [
   },
   {
     name: "Deportes",
-    re: /LIGA|BEIN SPO[RT]{0,3}S?|\bBEIN 1\b|S[- ]?SPORTS?|\bS SPORT\b|\bLIGA\b|VAMOS|EUROSPORT|\bDEPORTES\b|\bSPOR\b|\bSPORT\b/i,
+    re: /LALIGA|BEIN SPO[RT]{0,3}S?|\bBEIN 1\b|S[- ]?SPORTS?|\bS SPORT\b|\bLIGA\b|VAMOS|EUROSPORT|\bDEPORTES\b|\bSPOR\b|\bSPORT\b/i,
   },
 
 ];

@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/coincity/vavoo-iptv-geil/main/epg.xml" x-tvg-url="https://raw.githubusercontent.com/coincity/vavoo-iptv-geil/main/epg.xml"
 #EXTINF:-1 tvg-id="3042734297" tvg-name="101 TV (6)" tvg-logo="" group-title="Otros",101 TV (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3042734297
-#EXTINF:-1 tvg-id="4213738396" tvg-name="13 REALITIES (6)" tvg-logo="" group-title="Otros",13 REALITIES (6)
-https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/4213738396
 #EXTINF:-1 tvg-id="1537807715" tvg-name="24 HORAS (1)" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Otros",24 HORAS (1)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1537807715
 #EXTINF:-1 tvg-id="324.es" tvg-name="324 (6)" tvg-logo="https://statics.3cat.cat/img/logos/3CatInfo_negre.svg" group-title="Otros",324 (6)
@@ -19,14 +17,10 @@ https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/2533082131
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/2504628740
 #EXTINF:-1 tvg-id="3126618519" tvg-name="A&E (6)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/AMC_Break_Print.svg/revision/latest/scale-to-width-down/512" group-title="Otros",A&E (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3126618519
-#EXTINF:-1 tvg-id="3340892937" tvg-name="A3 SERIES HD (1)" tvg-logo="" group-title="Otros",A3 SERIES HD (1)
-https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3340892937
 #EXTINF:-1 tvg-id="3892867833" tvg-name="ACTIVA TV (6)" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="Otros",ACTIVA TV (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3892867833
 #EXTINF:-1 tvg-id="1359452177" tvg-name="ADORAM TV (6)" tvg-logo="" group-title="Otros",ADORAM TV (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1359452177
-#EXTINF:-1 tvg-id="3321128121" tvg-name="AHORA TV (6)" tvg-logo="https://i.imgur.com/pJjzVb2.png" group-title="Otros",AHORA TV (6)
-https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3321128121
 #EXTINF:-1 tvg-id="4125579950" tvg-name="ALACANTI TV (6)" tvg-logo="https://i.imgur.com/pcWU6e1.png" group-title="Otros",ALACANTI TV (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/4125579950
 #EXTINF:-1 tvg-id="4251716677" tvg-name="ALCARRIA TV (6)" tvg-logo="https://i.imgur.com/pzJAYan.png" group-title="Otros",ALCARRIA TV (6)
@@ -77,6 +71,8 @@ https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/2840476606
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3939390473
 #EXTINF:-1 tvg-id="581292525" tvg-name="BEIN SPORTS N (1)" tvg-logo="" group-title="Deportes",BEIN SPORTS N (1)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/581292525
+#EXTINF:-1 tvg-id="3580225131" tvg-name="BEIN SPORTS N (6)" tvg-logo="" group-title="Deportes",BEIN SPORTS N (6)
+https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3580225131
 #EXTINF:-1 tvg-id="979824657" tvg-name="BEIN SPORTS XTRA Ñ (6)" tvg-logo="" group-title="Deportes",BEIN SPORTS XTRA Ñ (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/979824657
 #EXTINF:-1 tvg-id="2047635278" tvg-name="BLAZE (1)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/AMC_Break_Print.svg/revision/latest/scale-to-width-down/512" group-title="Otros",BLAZE (1)
@@ -201,11 +197,11 @@ https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3582842156
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1739393340
 #EXTINF:-1 tvg-id="DAZN.F1.es" tvg-name="DAZN F1 (6)" tvg-logo="" group-title="Otros",DAZN F1 (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3129220252
-#EXTINF:-1 tvg-id="1591618250" tvg-name="DAZN LALIGA 1 (6)" tvg-logo="" group-title="Otros",DAZN LALIGA 1 (6)
+#EXTINF:-1 tvg-id="1591618250" tvg-name="DAZN LALIGA 1 (6)" tvg-logo="" group-title="Deportes",DAZN LALIGA 1 (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1591618250
-#EXTINF:-1 tvg-id="3325387265" tvg-name="DAZN LALIGA 1 FHD [] (6)" tvg-logo="" group-title="Otros",DAZN LALIGA 1 FHD [] (6)
+#EXTINF:-1 tvg-id="3325387265" tvg-name="DAZN LALIGA 1 FHD [] (6)" tvg-logo="" group-title="Deportes",DAZN LALIGA 1 FHD [] (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3325387265
-#EXTINF:-1 tvg-id="DAZN.LALIGA.2.es" tvg-name="DAZN LALIGA 2 (6)" tvg-logo="" group-title="Otros",DAZN LALIGA 2 (6)
+#EXTINF:-1 tvg-id="DAZN.LALIGA.2.es" tvg-name="DAZN LALIGA 2 (6)" tvg-logo="" group-title="Deportes",DAZN LALIGA 2 (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/427708442
 #EXTINF:-1 tvg-id="DBike.es" tvg-name="DBIKE (6)" tvg-logo="" group-title="Otros",DBIKE (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/783207408
@@ -223,8 +219,6 @@ https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1113196758
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/4130868041
 #EXTINF:-1 tvg-id="Distrito.TV.es" tvg-name="DISTRITO TV (6)" tvg-logo="https://i.imgur.com/AqGIoIt.png" group-title="Otros",DISTRITO TV (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/4257164702
-#EXTINF:-1 tvg-id="Divinity.es" tvg-name="DIVINITY (1)" tvg-logo="https://i.imgur.com/o7fvEr6.png" group-title="Otros",DIVINITY (1)
-https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/4187786300
 #EXTINF:-1 tvg-id="Divinity.es" tvg-name="DIVINITY (6)" tvg-logo="https://i.imgur.com/o7fvEr6.png" group-title="Otros",DIVINITY (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/749287084
 #EXTINF:-1 tvg-id="DKISS.es" tvg-name="DKISS (1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/960px-DKISS_2019_logo.svg.png" group-title="Otros",DKISS (1)
@@ -233,6 +227,8 @@ https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/4170408528
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1934981639
 #EXTINF:-1 tvg-id="4255133325" tvg-name="DW ESPAÑOL (6)" tvg-logo="" group-title="Otros",DW ESPAÑOL (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/4255133325
+#EXTINF:-1 tvg-id="1710359793" tvg-name="EL PINGUINO TV (6)" tvg-logo="" group-title="Otros",EL PINGUINO TV (6)
+https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1710359793
 #EXTINF:-1 tvg-id="El.Toro.TV.es" tvg-name="EL TORO TV (6)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png" group-title="Otros",EL TORO TV (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1390269076
 #EXTINF:-1 tvg-id="1054272251" tvg-name="EMPORDA TV (6)" tvg-logo="https://i.imgur.com/jc0lUbX.png" group-title="Otros",EMPORDA TV (6)
@@ -249,8 +245,6 @@ https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3282640293
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1383981291
 #EXTINF:-1 tvg-id="349823389" tvg-name="ESPN 2 (6)" tvg-logo="" group-title="Otros",ESPN 2 (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/349823389
-#EXTINF:-1 tvg-id="700041261" tvg-name="ESPN 3 (6)" tvg-logo="" group-title="Otros",ESPN 3 (6)
-https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/700041261
 #EXTINF:-1 tvg-id="2648419344" tvg-name="ESPN DEPORTES (6)" tvg-logo="" group-title="Deportes",ESPN DEPORTES (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/2648419344
 #EXTINF:-1 tvg-id="Esport.3.es" tvg-name="ESPORT 3 (6)" tvg-logo="" group-title="Otros",ESPORT 3 (6)
@@ -261,14 +255,10 @@ https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/4016507507
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/2831642787
 #EXTINF:-1 tvg-id="3689889997" tvg-name="ETB BASQUE (6)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/960px-ETB_Basque_2022_logo.svg.png" group-title="Otros",ETB BASQUE (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3689889997
-#EXTINF:-1 tvg-id="Eurosport.1.es" tvg-name="EUROSPORT 1 (1)" tvg-logo="" group-title="Deportes",EUROSPORT 1 (1)
-https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/2423006885
-#EXTINF:-1 tvg-id="Eurosport.1.es" tvg-name="EUROSPORT 1 HD (1)" tvg-logo="" group-title="Deportes",EUROSPORT 1 HD (1)
-https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1364676535
-#EXTINF:-1 tvg-id="Eurosport.2.es" tvg-name="EUROSPORT 2 (1)" tvg-logo="" group-title="Deportes",EUROSPORT 2 (1)
-https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3620494453
 #EXTINF:-1 tvg-id="Eurosport.2.es" tvg-name="EUROSPORT 2 (6)" tvg-logo="" group-title="Deportes",EUROSPORT 2 (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/2670144662
+#EXTINF:-1 tvg-id="Eurosport.2.es" tvg-name="EUROSPORT 2 (BACKUP) (1)" tvg-logo="" group-title="Deportes",EUROSPORT 2 (BACKUP) (1)
+https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3474692336
 #EXTINF:-1 tvg-id="4125810523" tvg-name="FACTORIA DE FICCION/FDF (6)" tvg-logo="" group-title="Otros",FACTORIA DE FICCION/FDF (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/4125810523
 #EXTINF:-1 tvg-id="2622585831" tvg-name="FDF (1)" tvg-logo="" group-title="Otros",FDF (1)
@@ -279,6 +269,8 @@ https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3362806456
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/2656093401
 #EXTINF:-1 tvg-id="1862646610" tvg-name="FOX LIFE (6)" tvg-logo="https://i.imgur.com/O2miSLA.png" group-title="Otros",FOX LIFE (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1862646610
+#EXTINF:-1 tvg-id="2765569410" tvg-name="FOX LIFE HD (1)" tvg-logo="https://i.imgur.com/O2miSLA.png" group-title="Otros",FOX LIFE HD (1)
+https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/2765569410
 #EXTINF:-1 tvg-id="3537553816" tvg-name="FOX SPORTS 3 (6)" tvg-logo="" group-title="Otros",FOX SPORTS 3 (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3537553816
 #EXTINF:-1 tvg-id="France.24.es" tvg-name="FRANCE 24 (6)" tvg-logo="" group-title="Otros",FRANCE 24 (6)
@@ -325,18 +317,20 @@ https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3503480950
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/2660027208
 #EXTINF:-1 tvg-id="238901671" tvg-name="LA SEXTA HD (1)" tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="Otros",LA SEXTA HD (1)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/238901671
-#EXTINF:-1 tvg-id="2178025822" tvg-name="LALIGA TV BAR (1)" tvg-logo="https://i.imgur.com/I8ldXf5.png" group-title="Otros",LALIGA TV BAR (1)
+#EXTINF:-1 tvg-id="2178025822" tvg-name="LALIGA TV BAR (1)" tvg-logo="https://i.imgur.com/I8ldXf5.png" group-title="Deportes",LALIGA TV BAR (1)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/2178025822
-#EXTINF:-1 tvg-id="1980907224" tvg-name="LALIGA TV BAR (6)" tvg-logo="https://i.imgur.com/I8ldXf5.png" group-title="Otros",LALIGA TV BAR (6)
+#EXTINF:-1 tvg-id="1980907224" tvg-name="LALIGA TV BAR (6)" tvg-logo="https://i.imgur.com/I8ldXf5.png" group-title="Deportes",LALIGA TV BAR (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1980907224
-#EXTINF:-1 tvg-id="LALIGA.TV.HYPERMOTION.es" tvg-name="LALIGA TV HYPERMOTION (6)" tvg-logo="" group-title="Otros",LALIGA TV HYPERMOTION (6)
+#EXTINF:-1 tvg-id="LALIGA.TV.HYPERMOTION.es" tvg-name="LALIGA TV HYPERMOTION (6)" tvg-logo="" group-title="Deportes",LALIGA TV HYPERMOTION (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3958277473
-#EXTINF:-1 tvg-id="LALIGA.TV.HYPERMOTION.2.es" tvg-name="LALIGA TV HYPERMOTION 2 (6)" tvg-logo="" group-title="Otros",LALIGA TV HYPERMOTION 2 (6)
+#EXTINF:-1 tvg-id="LALIGA.TV.HYPERMOTION.2.es" tvg-name="LALIGA TV HYPERMOTION 2 (6)" tvg-logo="" group-title="Deportes",LALIGA TV HYPERMOTION 2 (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/899887126
-#EXTINF:-1 tvg-id="LALIGA.TV.HYPERMOTION.3.es" tvg-name="LALIGA TV HYPERMOTION 3 (6)" tvg-logo="" group-title="Otros",LALIGA TV HYPERMOTION 3 (6)
+#EXTINF:-1 tvg-id="LALIGA.TV.HYPERMOTION.3.es" tvg-name="LALIGA TV HYPERMOTION 3 (6)" tvg-logo="" group-title="Deportes",LALIGA TV HYPERMOTION 3 (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/147003814
 #EXTINF:-1 tvg-id="3831813669" tvg-name="LANCELOT TV (6)" tvg-logo="https://i.imgur.com/RlzVIJP.png" group-title="Otros",LANCELOT TV (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3831813669
+#EXTINF:-1 tvg-id="1198249236" tvg-name="LIGA CAMPEONES HD (1)" tvg-logo="" group-title="Deportes",LIGA CAMPEONES HD (1)
+https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1198249236
 #EXTINF:-1 tvg-id="1995273516" tvg-name="LIGA TV (1)" tvg-logo="" group-title="Deportes",LIGA TV (1)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1995273516
 #EXTINF:-1 tvg-id="4050371970" tvg-name="LIGA TV BAR 3 HD (1)" tvg-logo="" group-title="Deportes",LIGA TV BAR 3 HD (1)
@@ -347,9 +341,11 @@ https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/4222536859
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/44475216
 #EXTINF:-1 tvg-id="2624836119" tvg-name="LOGOS TV KIDS (6)" tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="Otros",LOGOS TV KIDS (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/2624836119
+#EXTINF:-1 tvg-id="1079029460" tvg-name="LOGOS TV SALUD (6)" tvg-logo="https://i.imgur.com/qkHrttj.png" group-title="Otros",LOGOS TV SALUD (6)
+https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1079029460
 #EXTINF:-1 tvg-id="3518404885" tvg-name="M+ ELLAS VAMOS (6)" tvg-logo="" group-title="Deportes",M+ ELLAS VAMOS (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3518404885
-#EXTINF:-1 tvg-id="3996529465" tvg-name="M+ LALIGA (6)" tvg-logo="" group-title="Otros",M+ LALIGA (6)
+#EXTINF:-1 tvg-id="3996529465" tvg-name="M+ LALIGA (6)" tvg-logo="" group-title="Deportes",M+ LALIGA (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3996529465
 #EXTINF:-1 tvg-id="1704900898" tvg-name="M.ACCION HD (1)" tvg-logo="" group-title="Otros",M.ACCION HD (1)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1704900898
@@ -361,6 +357,8 @@ https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3864398596
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/270716645
 #EXTINF:-1 tvg-id="M+.Golf.es" tvg-name="M.GOLF HD (1)" tvg-logo="" group-title="Otros",M.GOLF HD (1)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/428774689
+#EXTINF:-1 tvg-id="M+.Liga.de.Campeones.es" tvg-name="M.LIGA DE CAMPEONES HD (1)" tvg-logo="" group-title="Deportes",M.LIGA DE CAMPEONES HD (1)
+https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/2726712057
 #EXTINF:-1 tvg-id="3202539477" tvg-name="M95 MARBELLA (6)" tvg-logo="" group-title="Otros",M95 MARBELLA (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3202539477
 #EXTINF:-1 tvg-id="3847314697" tvg-name="MARBELLA TV (6)" tvg-logo="" group-title="Otros",MARBELLA TV (6)
@@ -387,8 +385,6 @@ https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1285043320
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1188166343
 #EXTINF:-1 tvg-id="2748019555" tvg-name="MOVISTAR DRAMA HD (1)" tvg-logo="" group-title="Otros",MOVISTAR DRAMA HD (1)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/2748019555
-#EXTINF:-1 tvg-id="3585307980" tvg-name="MOVISTAR ESTRENOS HD (1)" tvg-logo="" group-title="Otros",MOVISTAR ESTRENOS HD (1)
-https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3585307980
 #EXTINF:-1 tvg-id="1826839470" tvg-name="MOVISTAR F1 HD (1)" tvg-logo="" group-title="Otros",MOVISTAR F1 HD (1)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1826839470
 #EXTINF:-1 tvg-id="Movistar.Golf.es" tvg-name="MOVISTAR GOLF HD (1)" tvg-logo="" group-title="Otros",MOVISTAR GOLF HD (1)
@@ -399,8 +395,16 @@ https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/2428779244
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/2652614938
 #EXTINF:-1 tvg-id="1969674121" tvg-name="MOVISTAR LA LIGA 1 (1)" tvg-logo="" group-title="Deportes",MOVISTAR LA LIGA 1 (1)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1969674121
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.es" tvg-name="MOVISTAR LIGA DE CAMPEONES (1)" tvg-logo="" group-title="Deportes",MOVISTAR LIGA DE CAMPEONES (1)
-https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1275784434
+#EXTINF:-1 tvg-id="851881305" tvg-name="MOVISTAR LA LIGA 2 (1)" tvg-logo="" group-title="Deportes",MOVISTAR LA LIGA 2 (1)
+https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/851881305
+#EXTINF:-1 tvg-id="262571241" tvg-name="MOVISTAR LA LIGA 3 (1)" tvg-logo="" group-title="Deportes",MOVISTAR LA LIGA 3 (1)
+https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/262571241
+#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.2.es" tvg-name="MOVISTAR LIGA DE CAMPEONES 2 HD (ONLY EVENT) (1)" tvg-logo="" group-title="Deportes",MOVISTAR LIGA DE CAMPEONES 2 HD (ONLY EVENT) (1)
+https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/994074713
+#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.3.es" tvg-name="MOVISTAR LIGA DE CAMPEONES 3 HD (ONLY EVENT) (1)" tvg-logo="" group-title="Deportes",MOVISTAR LIGA DE CAMPEONES 3 HD (ONLY EVENT) (1)
+https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/2761614279
+#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.4.es" tvg-name="MOVISTAR LIGA DE CAMPEONES 4 HD (ONLY EVENT) (1)" tvg-logo="" group-title="Deportes",MOVISTAR LIGA DE CAMPEONES 4 HD (ONLY EVENT) (1)
+https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3447547295
 #EXTINF:-1 tvg-id="1138873971" tvg-name="MOVISTAR SERIES HD (1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Series_2_por_Movistar_Plus%2B_2022_logo.svg/960px-Series_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Otros",MOVISTAR SERIES HD (1)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1138873971
 #EXTINF:-1 tvg-id="1344073831" tvg-name="MOVISTAR SERIESMANIA HD (1)" tvg-logo="" group-title="Otros",MOVISTAR SERIESMANIA HD (1)
@@ -615,8 +619,6 @@ https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/154698207
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/450666896
 #EXTINF:-1 tvg-id="4285181325" tvg-name="VIAJAR (6)" tvg-logo="https://i.imgur.com/Jjmd4Bm.png" group-title="Otros",VIAJAR (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/4285181325
-#EXTINF:-1 tvg-id="296276062" tvg-name="VIAJAR HD (1)" tvg-logo="https://i.imgur.com/Jjmd4Bm.png" group-title="Otros",VIAJAR HD (1)
-https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/296276062
 #EXTINF:-1 tvg-id="2937559394" tvg-name="VIN TV (6)" tvg-logo="" group-title="Otros",VIN TV (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/2937559394
 #EXTINF:-1 tvg-id="Warner.TV.es" tvg-name="WARNER TV (6)" tvg-logo="https://i.imgur.com/QtGQR0c.png" group-title="Otros",WARNER TV (6)

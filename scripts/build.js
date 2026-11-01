@@ -5,14 +5,14 @@ const path = require("node:path");
 const zlib = require("node:zlib");
 const { CATALOG_URL, fetchChannels } = require("../lib/geil.cjs");
 
-const GROUP = "Turkey";
+const GROUP = "Spain";
 const M3U_FILE = path.join(__dirname, "..", "iptv.m3u");
 const EPG_FILE = path.join(__dirname, "..", "epg.xml");
 
 // Upstream free TR EPG (gzipped XMLTV). Matched to Vavoo channels by fuzzy name.
 const EPG_UPSTREAM_URL =
   process.env.EPG_UPSTREAM_URL ||
-  "https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz";
+  "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz";
 
 // Optional directory of iptv-org/epg grab outputs (XMLTV per site).
 // Provided by CI when the grab step runs; overrides epgshare01 when a channel is present.
@@ -425,7 +425,7 @@ async function buildLogoIndex() {
     fetchJson(IPTVORG_CHANNELS_URL),
     fetchJson(IPTVORG_LOGOS_URL),
   ]);
-  const trChannels = channels.filter((c) => c && c.country === "TR");
+  const trChannels = channels.filter((c) => c && c.country === "ES");
   const trIds = new Set(trChannels.map((c) => c.id));
 
   // Prefer in_use=true logos; fall back to first available.

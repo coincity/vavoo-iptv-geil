@@ -68,7 +68,7 @@ const CATEGORY_RULES = [
   },
   {
     name: "Deportes",
-    re: /BEIN SPO[RT]{0,3}S?|\bBEIN 1\b|S[- ]?SPORTS?|\bS SPORT\b|\bLIGA\b|VAMOS|EUROSPORT|\bDEPORTES\b|\bSPOR\b|\bSPORT\b/i,
+    re: /LIGA|BEIN SPO[RT]{0,3}S?|\bBEIN 1\b|S[- ]?SPORTS?|\bS SPORT\b|\bLIGA\b|VAMOS|EUROSPORT|\bDEPORTES\b|\bSPOR\b|\bSPORT\b/i,
   },
 
 ];

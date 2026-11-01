@@ -6,7 +6,7 @@ const zlib = require("node:zlib");
 const { CATALOG_URL, fetchChannels } = require("../lib/geil.cjs");
 
 const GROUP = "Spain";
-const M3U_FILE = path.join(__dirname, "..", "iptv2.m3u");
+const M3U_FILE = path.join(__dirname, "..", "iptv.m3u");
 const EPG_FILE = path.join(__dirname, "..", "epg.xml");
 
 // Upstream free TR EPG (gzipped XMLTV). Matched to Vavoo channels by fuzzy name.

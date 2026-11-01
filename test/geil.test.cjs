@@ -3,9 +3,9 @@ const { test } = require('node:test');
 const geil = require('../lib/geil.cjs');
 
 const channel = {
-  id: '406666682', name: 'TRT 1 FHD (1)', type: 'live',
-  url: 'https://geil.to/live/play/406666682', tags: ['Turkey'],
-  ids: { tvg: 'TRT1.tr' },
+  id: '406666682', name: 'CANAL MALAGA', type: 'live',
+  url: 'https://geil.to/live/play/3042734297', tags: ['Spain'],
+  ids: { tvg: 'CANAL MALAGA' },
   epg: [
     { title: 'News', start: '2026-10-26T00:00:00Z', end: '2026-10-26T01:00:00Z' },
     { title: 'Bad date', start: 'invalid', end: 'invalid' },
@@ -19,14 +19,14 @@ test('catalogue pages use only Geil v2, retain IDs and normalize inline EPG', as
     const url = new URL(input);
     assert.equal(url.origin, 'https://geil.to');
     assert.equal(url.pathname, '/live/catalog/live/channels.json');
-    assert.equal(url.searchParams.get('filter[group]'), 'Turkey');
+    assert.equal(url.searchParams.get('filter[group]'), 'Spain');
     assert.equal(url.searchParams.get('sort'), 'name');
     assert.ok(!options.method || options.method === 'GET');
     assert.equal(options.redirect, 'manual');
     cursors.push(url.searchParams.get('cursor'));
     return Response.json(cursors.length === 1
       ? { items: [channel], nextCursor: '300' }
-      : { items: [{ ...channel, id: '1221669131', name: 'TRT 1 HD (1)' }], nextCursor: null });
+      : { items: [{ ...channel, id: '3042734297', name: 'CANAL MALAGA' }], nextCursor: null });
   });
   const channels = await geil.fetchChannels();
   assert.deepEqual(cursors, [null, '300']);
@@ -105,12 +105,12 @@ test('resolves an ID via Geil v2 GET without signatures or arbitrary target URLs
     const url = new URL(input);
     assert.equal(url.origin, 'https://geil.to');
     assert.equal(url.pathname, '/live/resolve');
-    assert.equal(url.searchParams.get('url'), 'https://geil.to/live/play/406666682');
+    assert.equal(url.searchParams.get('url'), 'https://geil.to/live/play/3042734297');
     assert.ok(!options.method || options.method === 'GET');
     assert.equal(new Headers(options.headers).get('mediahubmx-signature'), null);
     return Response.json({ url: 'http://31.43.191.154:8008/playlist.m3u8' });
   });
-  assert.equal(await geil.resolveChannel('406666682'), 'http://31.43.191.154:8008/playlist.m3u8');
+  assert.equal(await geil.resolveChannel('3042734297'), 'http://31.43.191.154:8008/playlist.m3u8');
 });
 
 for (const status of [404, 503]) {
@@ -122,7 +122,7 @@ for (const status of [404, 503]) {
 
 test('rejects invalid IDs before making any upstream request', async (t) => {
   t.mock.method(globalThis, 'fetch', () => { throw new Error('must not fetch'); });
-  for (const id of ['', '../catalog', 'https://evil.example/', '406666682?x=1']) {
+  for (const id of ['', '../catalog', 'https://evil.example/', '3042734297?x=1']) {
     await assert.rejects(geil.resolveChannel(id), error => error.status === 400);
   }
 });
@@ -130,6 +130,6 @@ test('rejects invalid IDs before making any upstream request', async (t) => {
 for (const url of [undefined, '', 'file:///secret', 'javascript:alert(1)', 'https://user:pass@cdn.example/live.m3u8']) {
   test(`rejects invalid resolved stream ${String(url)}`, async (t) => {
     t.mock.method(globalThis, 'fetch', async () => Response.json({ url }));
-    await assert.rejects(geil.resolveChannel('406666682'));
+    await assert.rejects(geil.resolveChannel('3042734297'));
   });
 }

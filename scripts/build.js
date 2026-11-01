@@ -60,7 +60,7 @@ function normalizeForCategory(name) {
 const CATEGORY_RULES = [
   {
     name: "Infantil",
-    re: /CARTOON|BOOMERANG|DISNEY|NICK(?:ELODEON|TOONS|JR|JUNIOR|\b)|BABY ?TV|BABYTV|CLAN|MONTAG/i,
+    re: /CARTOON|BOOMERANG|BOING|PANDA|DISNEY|NICK(?:ELODEON|TOONS|JR|JUNIOR|\b)|BABY ?TV|BABYTV|CLAN|MONTAG/i,
   },
   {
     name: "Documentales",
@@ -68,7 +68,7 @@ const CATEGORY_RULES = [
   },
   {
     name: "Deportes",
-    re: /LALIGA|BEIN SPO[RT]{0,3}S?|\bBEIN 1\b|S[- ]?SPORTS?|\bS SPORT\b|\bLIGA\b|VAMOS|EUROSPORT|\bDEPORTES\b|\bSPOR\b|\bSPORT\b/i,
+    re: /LALIGA|BEIN SPO[RT]{0,3}S?|\bBEIN 1\b|S[- ]?SPORTS?|\bS SPORT\b|\bLIGA\b|VAMOS|EUROSPORT|\bDEPORTES\b|\bSPOR\b|F1|\bSPORT\b/i,
   },
 
 ];

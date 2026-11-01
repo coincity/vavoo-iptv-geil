@@ -102,9 +102,6 @@
   <channel id="4117227962">
     <display-name>4K TR: EUROSPORT 2 HD (1)</display-name>
   </channel>
-  <channel id="194469526">
-    <display-name>4K TR: EXXEN TV (1)</display-name>
-  </channel>
   <channel id="3730681078">
     <display-name>4K TR: FB TV (1)</display-name>
   </channel>
@@ -156,9 +153,6 @@
   <channel id="545548133">
     <display-name>4K TR: NBA TV HD (1)</display-name>
   </channel>
-  <channel id="988691374">
-    <display-name>4K TR: NICKTOONS (1)</display-name>
-  </channel>
   <channel id="2578197593">
     <display-name>4K TR: NOW HD (1)</display-name>
   </channel>
@@ -173,12 +167,6 @@
   </channel>
   <channel id="1526602599">
     <display-name>4K TR: NUMBER1 TV HD (1)</display-name>
-  </channel>
-  <channel id="4244447384">
-    <display-name>4K TR: POWER TURK HD (1)</display-name>
-  </channel>
-  <channel id="1307965662">
-    <display-name>4K TR: POWER TV HD (1)</display-name>
   </channel>
   <channel id="1076643856">
     <display-name>4K TR: S NEMA 1002 HD (1)</display-name>
@@ -227,9 +215,6 @@
   </channel>
   <channel id="31596047">
     <display-name>4K TR: SPOR SMART (1)</display-name>
-  </channel>
-  <channel id="2429298798">
-    <display-name>4K TR: SPORTS TV HD (1)</display-name>
   </channel>
   <channel id="2192971293">
     <display-name>4K TR: STAR TV HD (1)</display-name>
@@ -369,6 +354,9 @@
   <channel id="1835847966">
     <display-name>A2 TV SD (1)</display-name>
   </channel>
+  <channel id="4225961715">
+    <display-name>ADA TV (1)</display-name>
+  </channel>
   <channel id="2134735285">
     <display-name>ADA TV (6)</display-name>
   </channel>
@@ -456,6 +444,9 @@
   <channel id="931406409">
     <display-name>APARA HD (1)</display-name>
   </channel>
+  <channel id="511738384">
+    <display-name>ARAS TV (6)</display-name>
+  </channel>
   <channel id="2853730703">
     <display-name>ARENA BOX ACTION (6)</display-name>
   </channel>
@@ -532,9 +523,6 @@
   <channel id="3564106134">
     <display-name>BEIN BOX OFFICE 3 (6)</display-name>
   </channel>
-  <channel id="879981610">
-    <display-name>BEIN BOX OFFICE 3 (7)</display-name>
-  </channel>
   <channel id="3617035414">
     <display-name>BEIN GURME (6)</display-name>
   </channel>
@@ -561,9 +549,6 @@
   </channel>
   <channel id="650851542">
     <display-name>BEIN MOVIES ACTION 2 (7)</display-name>
-  </channel>
-  <channel id="2485199152">
-    <display-name>BEIN MOVIES FAMILY (6)</display-name>
   </channel>
   <channel id="1322228068">
     <display-name>BEIN MOVIES FAMILY (7)</display-name>
@@ -642,9 +627,6 @@
   </channel>
   <channel id="662179620">
     <display-name>BEIN SPORTS 1 HD (1)</display-name>
-  </channel>
-  <channel id="593493860">
-    <display-name>BEIN SPORTS 1 HD (TURKEY) (1)</display-name>
   </channel>
   <channel id="1447241506">
     <display-name>BEIN SPORTS 2 (6)</display-name>
@@ -827,6 +809,9 @@
   <channel id="134086061">
     <display-name>BRTV (6)</display-name>
   </channel>
+  <channel id="4136709820">
+    <display-name>CAILLOU (6)</display-name>
+  </channel>
   <channel id="3900702315">
     <display-name>CAN TV (6)</display-name>
   </channel>
@@ -865,6 +850,39 @@
   </channel>
   <channel id="831052731">
     <display-name>CINE 1 (6)</display-name>
+  </channel>
+  <channel id="3187835398">
+    <display-name>CINEPLAY 2 (1)</display-name>
+  </channel>
+  <channel id="2204281782">
+    <display-name>CINEPLAY 3 (1)</display-name>
+  </channel>
+  <channel id="826439590">
+    <display-name>CINEPLAY 4 (1)</display-name>
+  </channel>
+  <channel id="1266820294">
+    <display-name>CINEPLAY 6 (1)</display-name>
+  </channel>
+  <channel id="3272606465">
+    <display-name>CINETURK 15 (1)</display-name>
+  </channel>
+  <channel id="132100457">
+    <display-name>CINETURK 5 (1)</display-name>
+  </channel>
+  <channel id="1468458493">
+    <display-name>CINEVERSE B L MKURGU 3 (1)</display-name>
+  </channel>
+  <channel id="3852876269">
+    <display-name>CINEVERSE B L MKURGU 4 (1)</display-name>
+  </channel>
+  <channel id="1164149222">
+    <display-name>CINEVERSE FANTASY 8 (1)</display-name>
+  </channel>
+  <channel id="1801246833">
+    <display-name>CINEVERSE KORKU 1 (1)</display-name>
+  </channel>
+  <channel id="3648783457">
+    <display-name>CINEVERSE KORKU 6 (1)</display-name>
   </channel>
   <channel id="2868318534">
     <display-name>CNN T RK HD+ SD (1)</display-name>
@@ -911,6 +929,9 @@
   <channel id="4022359276">
     <display-name>DHA (6)</display-name>
   </channel>
+  <channel id="1278447576">
+    <display-name>DIGI MAX (7)</display-name>
+  </channel>
   <channel id="Discovery.Channel.es">
     <display-name>Discovery Channel</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"/>
@@ -954,6 +975,9 @@
   </channel>
   <channel id="2131958841">
     <display-name>DIYANET TV (6)</display-name>
+  </channel>
+  <channel id="4252763849">
+    <display-name>DIYAR TV (6)</display-name>
   </channel>
   <channel id="4079530614">
     <display-name>DIZI SMART MAX (7)</display-name>
@@ -1007,6 +1031,9 @@
   <channel id="110752573">
     <display-name>DUCU BOX (1)</display-name>
   </channel>
+  <channel id="2838364281">
+    <display-name>DURSUN AL ERZINCANLI (1)</display-name>
+  </channel>
   <channel id="3316189195">
     <display-name>EBA TV ILKOKUL (6)</display-name>
   </channel>
@@ -1055,6 +1082,9 @@
   <channel id="2406323623">
     <display-name>ELIFIN DUSLERI (7)</display-name>
   </channel>
+  <channel id="659694487">
+    <display-name>ENO ANIMASYON (6)</display-name>
+  </channel>
   <channel id="1545196944">
     <display-name>ENO VIZYON 11 (7)</display-name>
   </channel>
@@ -1093,6 +1123,9 @@
   </channel>
   <channel id="4090141978">
     <display-name>ESK EH R KANAL 26 (1)</display-name>
+  </channel>
+  <channel id="1218353983">
+    <display-name>ETV KAYSERI (6)</display-name>
   </channel>
   <channel id="2024954002">
     <display-name>ETV MANISA (6)</display-name>
@@ -1159,11 +1192,20 @@
   <channel id="1208369995">
     <display-name>EXXEN TV SPOR 1 (1)</display-name>
   </channel>
+  <channel id="3333902867">
+    <display-name>EXXEN TV SPOR 1 720P (1)</display-name>
+  </channel>
   <channel id="1091403912">
     <display-name>EXXEN TV SPOR 1 FEED (1)</display-name>
   </channel>
+  <channel id="1204200801">
+    <display-name>EXXEN TV SPOR 1 HD (1)</display-name>
+  </channel>
   <channel id="3814925371">
     <display-name>EXXEN TV SPOR 1 UHD (1)</display-name>
+  </channel>
+  <channel id="3377046146">
+    <display-name>EXXEN TV SPOR 2 HD (1)</display-name>
   </channel>
   <channel id="3673037054">
     <display-name>EXXEN TV SPOR 2 UHD (1)</display-name>
@@ -1271,6 +1313,9 @@
   <channel id="2843011698">
     <display-name>GAZIANTEP GRT TV (1)</display-name>
   </channel>
+  <channel id="2413536917">
+    <display-name>GAZIANTEP OLAY TV (1)</display-name>
+  </channel>
   <channel id="2456232539">
     <display-name>GLOBAL BOX ACTION (1)</display-name>
   </channel>
@@ -1331,6 +1376,9 @@
   <channel id="4144668031">
     <display-name>HABER GLOBAL HD+ SD (1)</display-name>
   </channel>
+  <channel id="3225335454">
+    <display-name>HABER T RK HD+ SD (1)</display-name>
+  </channel>
   <channel id="464378170">
     <display-name>HABER TURK (7)</display-name>
   </channel>
@@ -1351,6 +1399,9 @@
   </channel>
   <channel id="4148513719">
     <display-name>HALK TV (6)</display-name>
+  </channel>
+  <channel id="3986444106">
+    <display-name>HALK TV (7)</display-name>
   </channel>
   <channel id="1771999100">
     <display-name>HALK TV HD (1)</display-name>
@@ -1402,6 +1453,9 @@
   </channel>
   <channel id="1743510188">
     <display-name>ILKE TV (1)</display-name>
+  </channel>
+  <channel id="1676737490">
+    <display-name>ISVI RE VIZYON TV (1)</display-name>
   </channel>
   <channel id="3847791361">
     <display-name>IZ TV (1)</display-name>
@@ -1499,6 +1553,9 @@
   <channel id="1096791444">
     <display-name>KANAL AVRUPA (6)</display-name>
   </channel>
+  <channel id="4085283006">
+    <display-name>KANAL AVRUPA (7)</display-name>
+  </channel>
   <channel id="387232860">
     <display-name>KANAL D (6)</display-name>
   </channel>
@@ -1526,6 +1583,9 @@
   <channel id="744021843">
     <display-name>KANAL FIRAT (6)</display-name>
   </channel>
+  <channel id="897076110">
+    <display-name>KANAL HAYAT (6)</display-name>
+  </channel>
   <channel id="1831675683">
     <display-name>KANAL T (7)</display-name>
   </channel>
@@ -1547,11 +1607,20 @@
   <channel id="1198414561">
     <display-name>KARDELEN TV (7)</display-name>
   </channel>
+  <channel id="2379646637">
+    <display-name>KAY TV (6)</display-name>
+  </channel>
+  <channel id="829204946">
+    <display-name>KAYSERI LIFE TV (1)</display-name>
+  </channel>
   <channel id="2071472807">
     <display-name>KAYSERI OLAY T RK TV (1)</display-name>
   </channel>
   <channel id="750698535">
     <display-name>KELOGLAN (7)</display-name>
+  </channel>
+  <channel id="704689787">
+    <display-name>KENT TURK (7)</display-name>
   </channel>
   <channel id="3962582829">
     <display-name>KENT TÜRK (6)</display-name>
@@ -1586,6 +1655,9 @@
   <channel id="4002657935">
     <display-name>KOZA TV HD (1)</display-name>
   </channel>
+  <channel id="3295096268">
+    <display-name>KRAL POP RADYO T RK E POP (1)</display-name>
+  </channel>
   <channel id="1578872642">
     <display-name>KRAL SAKIR (7)</display-name>
   </channel>
@@ -1594,6 +1666,9 @@
   </channel>
   <channel id="1131281902">
     <display-name>KRAL TV (7)</display-name>
+  </channel>
+  <channel id="2879812830">
+    <display-name>KRAL TV HD (1)</display-name>
   </channel>
   <channel id="331685130">
     <display-name>KRT (6)</display-name>
@@ -1661,6 +1736,9 @@
   <channel id="4062866760">
     <display-name>MALATYA ERTV (1)</display-name>
   </channel>
+  <channel id="1986235183">
+    <display-name>MAM EBU HANIFE (1)</display-name>
+  </channel>
   <channel id="4089756536">
     <display-name>MASAL (7)</display-name>
   </channel>
@@ -1723,6 +1801,9 @@
   </channel>
   <channel id="523018472">
     <display-name>MAX WESTERN (6)</display-name>
+  </channel>
+  <channel id="2719293629">
+    <display-name>MBAT FM ARABESK (1)</display-name>
   </channel>
   <channel id="3849971860">
     <display-name>MC EU (6)</display-name>
@@ -1830,6 +1911,9 @@
   </channel>
   <channel id="2430655089">
     <display-name>NBA TV (7)</display-name>
+  </channel>
+  <channel id="2462143546">
+    <display-name>NBA TV FHD (1)</display-name>
   </channel>
   <channel id="3513867536">
     <display-name>NBA TV HD (1)</display-name>
@@ -1978,9 +2062,6 @@
   <channel id="538668348">
     <display-name>POWER TURK (7)</display-name>
   </channel>
-  <channel id="714196738">
-    <display-name>POWER TURK HD (1)</display-name>
-  </channel>
   <channel id="176662368">
     <display-name>POWER TURK TV (6)</display-name>
   </channel>
@@ -2022,6 +2103,9 @@
   </channel>
   <channel id="50689293">
     <display-name>PROTURK MACERA (6)</display-name>
+  </channel>
+  <channel id="1662118634">
+    <display-name>PROTURK ORJINAL (6)</display-name>
   </channel>
   <channel id="2950070714">
     <display-name>PROTURK UZAKDOĞU (6)</display-name>
@@ -2134,17 +2218,29 @@
   <channel id="2217333005">
     <display-name>SALON 1 (7)</display-name>
   </channel>
+  <channel id="2469478269">
+    <display-name>SALON 12 (1)</display-name>
+  </channel>
   <channel id="3645943584">
     <display-name>SALON 2 (6)</display-name>
   </channel>
   <channel id="3280579549">
     <display-name>SALON 2 (7)</display-name>
   </channel>
+  <channel id="822426624">
+    <display-name>SALON 3 (1)</display-name>
+  </channel>
   <channel id="3828385424">
     <display-name>SALON 3 (6)</display-name>
   </channel>
   <channel id="915717266">
     <display-name>SALON 3 SINEMAX (7)</display-name>
+  </channel>
+  <channel id="2200297488">
+    <display-name>SALON 4 (1)</display-name>
+  </channel>
+  <channel id="2075468961">
+    <display-name>SALON 9 (1)</display-name>
   </channel>
   <channel id="3962972352">
     <display-name>SARAN SPORT 1 (7)</display-name>
@@ -2164,8 +2260,14 @@
   <channel id="1192565728">
     <display-name>SATRANÇ TV (6)</display-name>
   </channel>
+  <channel id="2451600415">
+    <display-name>SELDA BAGCAN (1)</display-name>
+  </channel>
   <channel id="2341562915">
     <display-name>SEMERKAND (7)</display-name>
+  </channel>
+  <channel id="3726238957">
+    <display-name>SEMERKAND RAW (1)</display-name>
   </channel>
   <channel id="786317112">
     <display-name>SEMERKAND TV (6)</display-name>
@@ -2175,6 +2277,9 @@
   </channel>
   <channel id="4154723330">
     <display-name>SEVIMLI DOSTLAR (7)</display-name>
+  </channel>
+  <channel id="2562804524">
+    <display-name>SEZEN AKSU (1)</display-name>
   </channel>
   <channel id="3537232978">
     <display-name>SHOW HD (H265) (1)</display-name>
@@ -2281,6 +2386,9 @@
   <channel id="4137962062">
     <display-name>SMART SPOR 1 (7)</display-name>
   </channel>
+  <channel id="625665056">
+    <display-name>SONER ARICA (1)</display-name>
+  </channel>
   <channel id="1098172953">
     <display-name>SOZCU SZC TV SD (1)</display-name>
   </channel>
@@ -2353,6 +2461,12 @@
   <channel id="3868582025">
     <display-name>SÜNGER BOB (6)</display-name>
   </channel>
+  <channel id="2786853104">
+    <display-name>T RK E POP (1)</display-name>
+  </channel>
+  <channel id="3633765645">
+    <display-name>T.A.Y TV (1)</display-name>
+  </channel>
   <channel id="184486327">
     <display-name>TABII SPOR (6)</display-name>
   </channel>
@@ -2379,6 +2493,9 @@
   </channel>
   <channel id="1001346341">
     <display-name>TABII SPOR 3 (6)</display-name>
+  </channel>
+  <channel id="1489430754">
+    <display-name>TABII SPOR 3 HD (1)</display-name>
   </channel>
   <channel id="2546857708">
     <display-name>TABII SPOR 3 UHD (1)</display-name>
@@ -2652,6 +2769,9 @@
   </channel>
   <channel id="792228122">
     <display-name>TRT COCUK (7)</display-name>
+  </channel>
+  <channel id="3979837190">
+    <display-name>TRT COCUK RAW (1)</display-name>
   </channel>
   <channel id="458659205">
     <display-name>TRT DIYANET (7)</display-name>
@@ -3067,58 +3187,58 @@
   <programme start="20261101031500 +0000" stop="20261101034500 +0000" channel="1702645191">
     <title>Yeniden Mümkün</title>
   </programme>
-  <programme start="20261101000000 +0000" stop="20261101020000 +0000" channel="1596095882">
-    <title>Satır Arası</title>
-  </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="1596095882">
     <title>Ajans Hafta Sonu</title>
   </programme>
-  <programme start="20261101000000 +0000" stop="20261101020000 +0000" channel="1174108535">
-    <title>Satır Arası</title>
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="1596095882">
+    <title>Ajans Hafta Sonu</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="1174108535">
     <title>Ajans Hafta Sonu</title>
   </programme>
-  <programme start="20261101000000 +0000" stop="20261101020000 +0000" channel="535272601">
-    <title>Satır Arası</title>
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="1174108535">
+    <title>Ajans Hafta Sonu</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="535272601">
     <title>Ajans Hafta Sonu</title>
   </programme>
-  <programme start="20261101000000 +0000" stop="20261101020000 +0000" channel="3766846723">
-    <title>Satır Arası</title>
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="535272601">
+    <title>Ajans Hafta Sonu</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="3766846723">
     <title>Ajans Hafta Sonu</title>
   </programme>
-  <programme start="20261101000000 +0000" stop="20261101020000 +0000" channel="2511732024">
-    <title>Satır Arası</title>
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="3766846723">
+    <title>Ajans Hafta Sonu</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="2511732024">
     <title>Ajans Hafta Sonu</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="812131629">
-    <title>Newsdesk</title>
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="2511732024">
+    <title>Ajans Hafta Sonu</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="812131629">
     <title>Newsdesk</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="1571071214">
+  <programme start="20261101030000 +0000" stop="20261101034500 +0000" channel="812131629">
     <title>Newsdesk</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="1571071214">
     <title>Newsdesk</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="3878908897">
+  <programme start="20261101030000 +0000" stop="20261101034500 +0000" channel="1571071214">
     <title>Newsdesk</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="3878908897">
     <title>Newsdesk</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="3415462105">
+  <programme start="20261101030000 +0000" stop="20261101034500 +0000" channel="3878908897">
     <title>Newsdesk</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="3415462105">
+    <title>Newsdesk</title>
+  </programme>
+  <programme start="20261101030000 +0000" stop="20261101034500 +0000" channel="3415462105">
     <title>Newsdesk</title>
   </programme>
   <programme start="20261101000000 +0000" stop="20261101030000 +0000" channel="3892017014">
@@ -3139,77 +3259,77 @@
   <programme start="20261101013000 +0000" stop="20261101040000 +0000" channel="4202445834">
     <title>Biz Bize</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="819272696">
-    <title>Arşiv Odası</title>
-  </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="819272696">
     <title>Son Sayfa</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="1561958971">
-    <title>Arşiv Odası</title>
+  <programme start="20261101030000 +0000" stop="20261101050000 +0000" channel="819272696">
+    <title>Avrupa&apos;da Türk Takımları</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="1561958971">
     <title>Son Sayfa</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="911836506">
-    <title>Arşiv Odası</title>
+  <programme start="20261101030000 +0000" stop="20261101050000 +0000" channel="1561958971">
+    <title>Avrupa&apos;da Türk Takımları</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="911836506">
     <title>Son Sayfa</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="2556711030">
-    <title>Arşiv Odası</title>
+  <programme start="20261101030000 +0000" stop="20261101050000 +0000" channel="911836506">
+    <title>Avrupa&apos;da Türk Takımları</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="2556711030">
     <title>Son Sayfa</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="2880529208">
-    <title>Arşiv Odası</title>
+  <programme start="20261101030000 +0000" stop="20261101050000 +0000" channel="2556711030">
+    <title>Avrupa&apos;da Türk Takımları</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="2880529208">
     <title>Son Sayfa</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="2777121053">
-    <title>Arşiv Odası</title>
+  <programme start="20261101030000 +0000" stop="20261101050000 +0000" channel="2880529208">
+    <title>Avrupa&apos;da Türk Takımları</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="2777121053">
     <title>Son Sayfa</title>
   </programme>
-  <programme start="20261101000000 +0000" stop="20261101020000 +0000" channel="759245925">
-    <title>Sıla</title>
+  <programme start="20261101030000 +0000" stop="20261101050000 +0000" channel="2777121053">
+    <title>Avrupa&apos;da Türk Takımları</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101040000 +0000" channel="759245925">
     <title>Canım Ailem</title>
   </programme>
-  <programme start="20261101000000 +0000" stop="20261101020000 +0000" channel="1735806851">
-    <title>Sıla</title>
+  <programme start="20261101040000 +0000" stop="20261101060000 +0000" channel="759245925">
+    <title>Adanalı</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101040000 +0000" channel="1735806851">
     <title>Canım Ailem</title>
   </programme>
-  <programme start="20261101000000 +0000" stop="20261101020000 +0000" channel="867875861">
-    <title>Sıla</title>
+  <programme start="20261101040000 +0000" stop="20261101060000 +0000" channel="1735806851">
+    <title>Adanalı</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101040000 +0000" channel="867875861">
     <title>Canım Ailem</title>
   </programme>
-  <programme start="20261101000000 +0000" stop="20261101020000 +0000" channel="1289576145">
-    <title>Sıla</title>
+  <programme start="20261101040000 +0000" stop="20261101060000 +0000" channel="867875861">
+    <title>Adanalı</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101040000 +0000" channel="1289576145">
     <title>Canım Ailem</title>
   </programme>
-  <programme start="20261101000000 +0000" stop="20261101020000 +0000" channel="1905749779">
-    <title>Sıla</title>
+  <programme start="20261101040000 +0000" stop="20261101060000 +0000" channel="1289576145">
+    <title>Adanalı</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101040000 +0000" channel="1905749779">
     <title>Canım Ailem</title>
   </programme>
-  <programme start="20261101000000 +0000" stop="20261101015959 +0000" channel="1633587820">
-    <title>Ce vor Plantele</title>
+  <programme start="20261101040000 +0000" stop="20261101060000 +0000" channel="1905749779">
+    <title>Adanalı</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101025959 +0000" channel="1633587820">
     <title>Duminica la tara</title>
+  </programme>
+  <programme start="20261101030000 +0000" stop="20261101032959 +0000" channel="1633587820">
+    <title>Femei care te dau pe brazda</title>
   </programme>
   <programme start="20261031180000 +0000" stop="20261101050000 +0000" channel="1948681011">
     <title>Kırmızı Masa</title>
@@ -3229,11 +3349,11 @@
   <programme start="20261101030000 +0000" stop="20261101060000 +0000" channel="3728553873">
     <title>Unutulmaz Akustikler</title>
   </programme>
-  <programme start="20261101011300 +0000" stop="20261101015900 +0000" channel="2110161355">
-    <title>Die Wildlife-Cops</title>
-  </programme>
   <programme start="20261101015900 +0000" stop="20261101024600 +0000" channel="2110161355">
     <title>Die Wildlife-Cops</title>
+  </programme>
+  <programme start="20261101024600 +0000" stop="20261101033000 +0000" channel="2110161355">
+    <title>Police Dogs</title>
   </programme>
   <programme start="20261101013000 +0000" stop="20261101020500 +0000" channel="2103702130">
     <title>Le jardin extraordinaire</title>
@@ -3879,22 +3999,22 @@
     <title lang="es">Informatiu Vespre</title>
     <icon src="https://mediaverse.rtva.hiway.media/image/2026/07/03/6a4785e4/ATV_bg-app_v2.png" />
   </programme>
-  <programme start="20261101015400 +0000" stop="20261101015900 +0000" channel="3820420855">
-    <title>Schließe deine Augen</title>
-  </programme>
   <programme start="20261101015900 +0000" stop="20261101020300 +0000" channel="3820420855">
     <title>Schließe deine Augen</title>
   </programme>
-  <programme start="20261101015400 +0000" stop="20261101015900 +0000" channel="4184865290">
+  <programme start="20261101020300 +0000" stop="20261101020700 +0000" channel="3820420855">
     <title>Schließe deine Augen</title>
   </programme>
   <programme start="20261101015900 +0000" stop="20261101020300 +0000" channel="4184865290">
     <title>Schließe deine Augen</title>
   </programme>
-  <programme start="20261101015400 +0000" stop="20261101015900 +0000" channel="2751658995">
+  <programme start="20261101020300 +0000" stop="20261101020700 +0000" channel="4184865290">
     <title>Schließe deine Augen</title>
   </programme>
   <programme start="20261101015900 +0000" stop="20261101020300 +0000" channel="2751658995">
+    <title>Schließe deine Augen</title>
+  </programme>
+  <programme start="20261101020300 +0000" stop="20261101020700 +0000" channel="2751658995">
     <title>Schließe deine Augen</title>
   </programme>
   <programme start="20261030001200 +0100" stop="20261030010400 +0100" channel="BBC.Earth.es">
@@ -5985,22 +6105,22 @@
   <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="1646632825">
     <title>Skor</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="1221587067">
-    <title>No Data</title>
-  </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="1221587067">
     <title>No Data</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="2832430535">
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="1221587067">
     <title>No Data</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="2832430535">
     <title>No Data</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="258968235">
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="2832430535">
     <title>No Data</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="258968235">
+    <title>No Data</title>
+  </programme>
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="258968235">
     <title>No Data</title>
   </programme>
   <programme start="20261031214000 +0000" stop="20261101070000 +0000" channel="3030241554">
@@ -7108,16 +7228,16 @@
   <programme start="20261101022000 +0000" stop="20261101031000 +0000" channel="3578150260">
     <title>Ece Saruhan&apos;la Oyuna Devam</title>
   </programme>
-  <programme start="20261101013000 +0000" stop="20261101020000 +0000" channel="2943974208">
-    <title>Chowder</title>
-  </programme>
   <programme start="20261101020000 +0000" stop="20261101021500 +0000" channel="2943974208">
     <title>Clarence</title>
   </programme>
-  <programme start="20261101013000 +0000" stop="20261101020000 +0000" channel="11743931">
-    <title>Chowder</title>
+  <programme start="20261101021500 +0000" stop="20261101023000 +0000" channel="2943974208">
+    <title>Clarence</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101021500 +0000" channel="11743931">
+    <title>Clarence</title>
+  </programme>
+  <programme start="20261101021500 +0000" stop="20261101023000 +0000" channel="11743931">
     <title>Clarence</title>
   </programme>
   <programme start="20261031200000 +0000" stop="20261101035500 +0000" channel="2793254316">
@@ -7156,22 +7276,22 @@
   <programme start="20261101050000 +0000" stop="20261101060000 +0000" channel="2794224703">
     <title>Konser Saati</title>
   </programme>
-  <programme start="20261101014700 +0000" stop="20261101015800 +0000" channel="1696573723">
-    <title>Die fantastische Welt von Gumball</title>
-  </programme>
   <programme start="20261101015800 +0000" stop="20261101020900 +0000" channel="1696573723">
     <title>Die fantastische Welt von Gumball</title>
   </programme>
-  <programme start="20261101014700 +0000" stop="20261101015800 +0000" channel="478549032">
+  <programme start="20261101020900 +0000" stop="20261101022100 +0000" channel="1696573723">
     <title>Die fantastische Welt von Gumball</title>
   </programme>
   <programme start="20261101015800 +0000" stop="20261101020900 +0000" channel="478549032">
     <title>Die fantastische Welt von Gumball</title>
   </programme>
-  <programme start="20261101014700 +0000" stop="20261101015800 +0000" channel="1313600851">
+  <programme start="20261101020900 +0000" stop="20261101022100 +0000" channel="478549032">
     <title>Die fantastische Welt von Gumball</title>
   </programme>
   <programme start="20261101015800 +0000" stop="20261101020900 +0000" channel="1313600851">
+    <title>Die fantastische Welt von Gumball</title>
+  </programme>
+  <programme start="20261101020900 +0000" stop="20261101022100 +0000" channel="1313600851">
     <title>Die fantastische Welt von Gumball</title>
   </programme>
   <programme start="20261101015100 +0000" stop="20261101020800 +0000" channel="178755989">
@@ -7180,11 +7300,11 @@
   <programme start="20261101020800 +0000" stop="20261101021900 +0000" channel="178755989">
     <title>Mr. Bean - Die Cartoon-Serie</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="3124431103">
-    <title>Hayvancılık Akademisi</title>
-  </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="3124431103">
     <title>Kuşçu</title>
+  </programme>
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="3124431103">
+    <title>Toprağın Ruhu</title>
   </programme>
   <programme start="20261031230000 +0000" stop="20261101030000 +0000" channel="2868318534">
     <title>CNN TÜRK Masası</title>
@@ -9302,40 +9422,40 @@
       <value>+-1</value>
     </rating>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="2095404060">
-    <title>Şeytan Yuvaları</title>
-  </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="2095404060">
     <title>Son Sürat Kaçış</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="972730032">
-    <title>Şeytan Yuvaları</title>
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="2095404060">
+    <title>Son Sürat Kaçış</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="972730032">
     <title>Son Sürat Kaçış</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="1013220447">
-    <title>Mysteries at the Museum</title>
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="972730032">
+    <title>Son Sürat Kaçış</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="1013220447">
     <title>Mysteries at the Museum</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="3698852323">
-    <title>Mysteries at the Museum</title>
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="1013220447">
+    <title>Vampires: Mysteries at the Museum</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="3698852323">
     <title>Mysteries at the Museum</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="2818684271">
-    <title>Mysteries at the Museum</title>
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="3698852323">
+    <title>Vampires: Mysteries at the Museum</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="2818684271">
     <title>Mysteries at the Museum</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="3624002307">
-    <title>No Data</title>
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="2818684271">
+    <title>Vampires: Mysteries at the Museum</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="3624002307">
+    <title>No Data</title>
+  </programme>
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="3624002307">
     <title>No Data</title>
   </programme>
   <programme start="20261030002000 +0100" stop="20261030004000 +0100" channel="Disney.Channel.es">
@@ -12698,28 +12818,28 @@
   <programme start="20261101023000 +0000" stop="20261101030000 +0000" channel="2131958841">
     <title>Helal Kazancın Peşinde</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="4079530614">
-    <title>No Data</title>
-  </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="4079530614">
     <title>No Data</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="791616758">
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="4079530614">
     <title>No Data</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="791616758">
     <title>No Data</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="1165201807">
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="791616758">
     <title>No Data</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="1165201807">
     <title>No Data</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="1195429280">
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="1165201807">
     <title>No Data</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="1195429280">
+    <title>No Data</title>
+  </programme>
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="1195429280">
     <title>No Data</title>
   </programme>
   <programme start="20261030002400 +0100" stop="20261030012100 +0100" channel="DMAX.es">
@@ -14575,23 +14695,23 @@
   <programme start="20261101021000 +0000" stop="20261101023500 +0000" channel="3650386062">
     <title>Dosarele R.I.P.</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="3762421108">
-    <title>Söze Yar Olmak</title>
-  </programme>
   <programme start="20261101020000 +0000" stop="20261101023000 +0000" channel="3762421108">
     <title>Reng-i Ahenk</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="896813028">
-    <title>Söze Yar Olmak</title>
+  <programme start="20261101023000 +0000" stop="20261101030000 +0000" channel="3762421108">
+    <title>Mü&apos;minin Psikolojisi</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101023000 +0000" channel="896813028">
     <title>Reng-i Ahenk</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="799884057">
-    <title>Söze Yar Olmak</title>
+  <programme start="20261101023000 +0000" stop="20261101030000 +0000" channel="896813028">
+    <title>Mü&apos;minin Psikolojisi</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101023000 +0000" channel="799884057">
     <title>Reng-i Ahenk</title>
+  </programme>
+  <programme start="20261101023000 +0000" stop="20261101030000 +0000" channel="799884057">
+    <title>Mü&apos;minin Psikolojisi</title>
   </programme>
   <programme start="20261031190000 +0000" stop="20261101040000 +0000" channel="1621026196">
     <title>Dream Türk En İyiler</title>
@@ -16187,11 +16307,11 @@
       <value>Apta</value>
     </rating>
   </programme>
-  <programme start="20261101003000 +0000" stop="20261101020000 +0000" channel="3793200644">
-    <title>Sendepause</title>
-  </programme>
   <programme start="20261101020000 +0000" stop="20261101060000 +0000" channel="3793200644">
     <title>Sendepause</title>
+  </programme>
+  <programme start="20261101060000 +0000" stop="20261101093000 +0000" channel="3793200644">
+    <title>World Snooker Tour</title>
   </programme>
   <programme start="20261101010000 +0000" stop="20261101023000 +0000" channel="1821942247">
     <title>World Snooker Tour</title>
@@ -16199,23 +16319,23 @@
   <programme start="20261101023000 +0000" stop="20261101043000 +0000" channel="1821942247">
     <title>FIA WEC</title>
   </programme>
-  <programme start="20261101001500 +0000" stop="20261101020000 +0000" channel="2512340558">
-    <title>Futbol: Süper Lig</title>
-  </programme>
   <programme start="20261101020000 +0000" stop="20261101033000 +0000" channel="2512340558">
     <title>Basketbol: Kadınlar Süper Ligi</title>
   </programme>
-  <programme start="20261101001500 +0000" stop="20261101020000 +0000" channel="615308601">
-    <title>Futbol: Süper Lig</title>
+  <programme start="20261101033000 +0000" stop="20261101040000 +0000" channel="2512340558">
+    <title>Voleybol: Efeler Ligi</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101033000 +0000" channel="615308601">
     <title>Basketbol: Kadınlar Süper Ligi</title>
   </programme>
-  <programme start="20261101001500 +0000" stop="20261101020000 +0000" channel="1540748539">
-    <title>Futbol: Süper Lig</title>
+  <programme start="20261101033000 +0000" stop="20261101040000 +0000" channel="615308601">
+    <title>Voleybol: Efeler Ligi</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101033000 +0000" channel="1540748539">
     <title>Basketbol: Kadınlar Süper Ligi</title>
+  </programme>
+  <programme start="20261101033000 +0000" stop="20261101040000 +0000" channel="1540748539">
+    <title>Voleybol: Efeler Ligi</title>
   </programme>
   <programme start="20261101012500 +0000" stop="20261101025000 +0000" channel="2600387615">
     <title>Noapte liniştită</title>
@@ -16223,17 +16343,17 @@
   <programme start="20261101025000 +0000" stop="20261101035500 +0000" channel="2600387615">
     <title>Night board</title>
   </programme>
-  <programme start="20261101014500 +0000" stop="20261101015500 +0000" channel="3806979011">
-    <title>Memleket Sofrası</title>
+  <programme start="20261101020000 +0000" stop="20261101021000 +0000" channel="3806979011">
+    <title>Savunma Vizyonu</title>
   </programme>
-  <programme start="20261101015500 +0000" stop="20261101020000 +0000" channel="3806979011">
-    <title>Kısa Bir Mola</title>
+  <programme start="20261101021000 +0000" stop="20261101022500 +0000" channel="3806979011">
+    <title>Tekno Flash</title>
   </programme>
-  <programme start="20261101014500 +0000" stop="20261101015500 +0000" channel="2027331096">
-    <title>Memleket Sofrası</title>
+  <programme start="20261101020000 +0000" stop="20261101021000 +0000" channel="2027331096">
+    <title>Savunma Vizyonu</title>
   </programme>
-  <programme start="20261101015500 +0000" stop="20261101020000 +0000" channel="2027331096">
-    <title>Kısa Bir Mola</title>
+  <programme start="20261101021000 +0000" stop="20261101022500 +0000" channel="2027331096">
+    <title>Tekno Flash</title>
   </programme>
   <programme start="20261031190000 +0000" stop="20261101030000 +0000" channel="1285510370">
     <title>Peygamber</title>
@@ -18700,46 +18820,58 @@
   <programme start="20261101030000 +0000" stop="20261101050000 +0000" channel="4144668031">
     <title>Haber Bülteni</title>
   </programme>
-  <programme start="20261101011500 +0000" stop="20261101020000 +0000" channel="464378170">
-    <title>HT Sinema</title>
+  <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="3225335454">
+    <title>Haber Bülteni</title>
+  </programme>
+  <programme start="20261101030000 +0000" stop="20261101031500 +0000" channel="3225335454">
+    <title>Haber Bülteni</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="464378170">
     <title>Haber Bülteni</title>
   </programme>
-  <programme start="20261101011500 +0000" stop="20261101020000 +0000" channel="2360854158">
-    <title>HT Sinema</title>
+  <programme start="20261101030000 +0000" stop="20261101031500 +0000" channel="464378170">
+    <title>Haber Bülteni</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="2360854158">
     <title>Haber Bülteni</title>
   </programme>
-  <programme start="20261101011500 +0000" stop="20261101020000 +0000" channel="1857563183">
-    <title>HT Sinema</title>
+  <programme start="20261101030000 +0000" stop="20261101031500 +0000" channel="2360854158">
+    <title>Haber Bülteni</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="1857563183">
     <title>Haber Bülteni</title>
   </programme>
-  <programme start="20261101011500 +0000" stop="20261101020000 +0000" channel="2402772380">
-    <title>HT Sinema</title>
+  <programme start="20261101030000 +0000" stop="20261101031500 +0000" channel="1857563183">
+    <title>Haber Bülteni</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="2402772380">
     <title>Haber Bülteni</title>
   </programme>
-  <programme start="20261101011500 +0000" stop="20261101020000 +0000" channel="1470199900">
-    <title>HT Sinema</title>
+  <programme start="20261101030000 +0000" stop="20261101031500 +0000" channel="2402772380">
+    <title>Haber Bülteni</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="1470199900">
     <title>Haber Bülteni</title>
   </programme>
-  <programme start="20261101011500 +0000" stop="20261101020000 +0000" channel="2129890787">
-    <title>HT Sinema</title>
+  <programme start="20261101030000 +0000" stop="20261101031500 +0000" channel="1470199900">
+    <title>Haber Bülteni</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="2129890787">
+    <title>Haber Bülteni</title>
+  </programme>
+  <programme start="20261101030000 +0000" stop="20261101031500 +0000" channel="2129890787">
     <title>Haber Bülteni</title>
   </programme>
   <programme start="20261101000000 +0000" stop="20261101030000 +0000" channel="4148513719">
     <title>Halk Tv</title>
   </programme>
   <programme start="20261101030000 +0000" stop="20261101060000 +0000" channel="4148513719">
+    <title>Halk Tv</title>
+  </programme>
+  <programme start="20261101000000 +0000" stop="20261101030000 +0000" channel="3986444106">
+    <title>Halk Tv</title>
+  </programme>
+  <programme start="20261101030000 +0000" stop="20261101060000 +0000" channel="3986444106">
     <title>Halk Tv</title>
   </programme>
   <programme start="20261101000000 +0000" stop="20261101030000 +0000" channel="1771999100">
@@ -18754,29 +18886,29 @@
   <programme start="20261101030000 +0000" stop="20261101060000 +0000" channel="9403684">
     <title>Halk Tv</title>
   </programme>
-  <programme start="20261101005500 +0000" stop="20261101015500 +0000" channel="4207487562">
-    <title>The UnXplained</title>
-  </programme>
   <programme start="20261101015500 +0000" stop="20261101025000 +0000" channel="4207487562">
     <title>Greatest Machines</title>
   </programme>
-  <programme start="20261101000000 +0000" stop="20261101020000 +0000" channel="1240193403">
-    <title>Dakika 90</title>
+  <programme start="20261101025000 +0000" stop="20261101034500 +0000" channel="4207487562">
+    <title>Greatest Warriors</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="1240193403">
     <title>Maç Özeti</title>
   </programme>
-  <programme start="20261101000000 +0000" stop="20261101020000 +0000" channel="2773338492">
-    <title>Dakika 90</title>
+  <programme start="20261101030000 +0000" stop="20261101050000 +0000" channel="1240193403">
+    <title>Al Taawoun - Al Qadisiyah</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="2773338492">
     <title>Maç Özeti</title>
   </programme>
-  <programme start="20261031213000 +0000" stop="20261101020000 +0000" channel="2093940826">
-    <title>Program Tekrarları</title>
+  <programme start="20261101030000 +0000" stop="20261101050000 +0000" channel="2773338492">
+    <title>Al Taawoun - Al Qadisiyah</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="2093940826">
     <title>Hatm-i Şerif</title>
+  </programme>
+  <programme start="20261101030000 +0000" stop="20261101050000 +0000" channel="2093940826">
+    <title>İlahiler</title>
   </programme>
   <programme start="20261031210000 +0000" stop="20261101050000 +0000" channel="370660623">
     <title>Ana Haber</title>
@@ -18898,16 +19030,16 @@
   <programme start="20261101030000 +0000" stop="20261101090000 +0000" channel="1831675683">
     <title>Kanal T</title>
   </programme>
-  <programme start="20261101013000 +0000" stop="20261101020000 +0000" channel="221540542">
-    <title>Ara Haber</title>
-  </programme>
   <programme start="20261101020000 +0000" stop="20261101023000 +0000" channel="221540542">
     <title>Önce Sağlık</title>
   </programme>
-  <programme start="20261101013000 +0000" stop="20261101020000 +0000" channel="401437763">
-    <title>Ara Haber</title>
+  <programme start="20261101023000 +0000" stop="20261101030000 +0000" channel="221540542">
+    <title>Önce Sağlık</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101023000 +0000" channel="401437763">
+    <title>Önce Sağlık</title>
+  </programme>
+  <programme start="20261101023000 +0000" stop="20261101030000 +0000" channel="401437763">
     <title>Önce Sağlık</title>
   </programme>
   <programme start="20261031210000 +0000" stop="20261101040000 +0000" channel="3115477419">
@@ -18922,46 +19054,46 @@
   <programme start="20261101030000 +0000" stop="20261101090000 +0000" channel="631930666">
     <title>Kibris TV</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="862610701">
-    <title>Sora Sora Yarışma</title>
+  <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="862610701">
+    <title>Hatm-i Şerif</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="862610701">
-    <title>İyilikle Sevindir</title>
+  <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="862610701">
+    <title>Hatm-i Şerif</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="1587995854">
-    <title>Sora Sora Yarışma</title>
+  <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="1587995854">
+    <title>Hatm-i Şerif</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="1587995854">
-    <title>İyilikle Sevindir</title>
-  </programme>
-  <programme start="20261101003000 +0000" stop="20261101020000 +0000" channel="331685130">
-    <title>Krt Ana Haber</title>
+  <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="1587995854">
+    <title>Hatm-i Şerif</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101040000 +0000" channel="331685130">
     <title>Dipnot</title>
   </programme>
-  <programme start="20261101003000 +0000" stop="20261101020000 +0000" channel="1432853025">
-    <title>Krt Ana Haber</title>
+  <programme start="20261101040000 +0000" stop="20261101050000 +0000" channel="331685130">
+    <title>Dipnot</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101040000 +0000" channel="1432853025">
     <title>Dipnot</title>
   </programme>
-  <programme start="20261101003000 +0000" stop="20261101020000 +0000" channel="3998379019">
-    <title>Krt Ana Haber</title>
+  <programme start="20261101040000 +0000" stop="20261101050000 +0000" channel="1432853025">
+    <title>Dipnot</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101040000 +0000" channel="3998379019">
     <title>Dipnot</title>
   </programme>
-  <programme start="20261101003000 +0000" stop="20261101020000 +0000" channel="535260022">
-    <title>Krt Ana Haber</title>
+  <programme start="20261101040000 +0000" stop="20261101050000 +0000" channel="3998379019">
+    <title>Dipnot</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101040000 +0000" channel="535260022">
     <title>Dipnot</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="703698868">
-    <title>No Data</title>
+  <programme start="20261101040000 +0000" stop="20261101050000 +0000" channel="535260022">
+    <title>Dipnot</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="703698868">
+    <title>No Data</title>
+  </programme>
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="703698868">
     <title>No Data</title>
   </programme>
   <programme start="20261101015000 +0000" stop="20261101021500 +0000" channel="3572490349">
@@ -19015,61 +19147,61 @@
   <programme start="20261101013000 +0000" stop="20261101023000 +0000" channel="3036231687">
     <title>Maceracı Yüzgeçler</title>
   </programme>
-  <programme start="20261101014500 +0000" stop="20261101020000 +0000" channel="3036231687">
-    <title>Maceracı Yüzgeçler</title>
+  <programme start="20261101020000 +0000" stop="20261101023000 +0000" channel="3036231687">
+    <title>Şarkı</title>
   </programme>
   <programme start="20261101013000 +0000" stop="20261101023000 +0000" channel="1127812993">
     <title>Maceracı Yüzgeçler</title>
   </programme>
-  <programme start="20261101014500 +0000" stop="20261101020000 +0000" channel="1127812993">
-    <title>Maceracı Yüzgeçler</title>
+  <programme start="20261101020000 +0000" stop="20261101023000 +0000" channel="1127812993">
+    <title>Şarkı</title>
   </programme>
   <programme start="20261101013000 +0000" stop="20261101023000 +0000" channel="4058432171">
     <title>Maceracı Yüzgeçler</title>
   </programme>
-  <programme start="20261101014500 +0000" stop="20261101020000 +0000" channel="4058432171">
-    <title>Maceracı Yüzgeçler</title>
-  </programme>
-  <programme start="20261101014500 +0000" stop="20261101020000 +0000" channel="2831274809">
-    <title>Maceracı Yüzgeçler</title>
+  <programme start="20261101020000 +0000" stop="20261101023000 +0000" channel="4058432171">
+    <title>Şarkı</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101023000 +0000" channel="2831274809">
     <title>Şarkı</title>
   </programme>
-  <programme start="20261101014500 +0000" stop="20261101020000 +0000" channel="2937701421">
-    <title>Maceracı Yüzgeçler</title>
+  <programme start="20261101023000 +0000" stop="20261101024500 +0000" channel="2831274809">
+    <title>Neşeli Dünyam</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101023000 +0000" channel="2937701421">
     <title>Şarkı</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="3597292408">
-    <title>No Data</title>
+  <programme start="20261101023000 +0000" stop="20261101024500 +0000" channel="2937701421">
+    <title>Neşeli Dünyam</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="3597292408">
     <title>No Data</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="353384054">
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="3597292408">
     <title>No Data</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="353384054">
     <title>No Data</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="1337239933">
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="353384054">
     <title>No Data</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="1337239933">
     <title>No Data</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="3719397522">
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="1337239933">
     <title>No Data</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="3719397522">
     <title>No Data</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="MTV.Live.es">
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="3719397522">
     <title>No Data</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="MTV.Live.es">
+    <title>No Data</title>
+  </programme>
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="MTV.Live.es">
     <title>No Data</title>
   </programme>
   <programme start="20261101012000 +0000" stop="20261101022500 +0000" channel="1845660630">
@@ -19084,29 +19216,29 @@
   <programme start="20261101022500 +0000" stop="20261101032600 +0000" channel="1960546091">
     <title>Alerta Aeropuerto: Madrid</title>
   </programme>
-  <programme start="20261101011000 +0000" stop="20261101020000 +0000" channel="3320654968">
-    <title>Непознатата природа на Китай</title>
-  </programme>
   <programme start="20261101020000 +0000" stop="20261101024500 +0000" channel="3320654968">
     <title>Непознатата природа на Китай</title>
   </programme>
-  <programme start="20261101011000 +0000" stop="20261101020000 +0000" channel="1999823186">
-    <title>Непознатата природа на Китай</title>
+  <programme start="20261101024500 +0000" stop="20261101032500 +0000" channel="3320654968">
+    <title>Дивата природа на Карпатите</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101024500 +0000" channel="1999823186">
     <title>Непознатата природа на Китай</title>
   </programme>
-  <programme start="20261101011000 +0000" stop="20261101020000 +0000" channel="1519237116">
-    <title>Непознатата природа на Китай</title>
+  <programme start="20261101024500 +0000" stop="20261101032500 +0000" channel="1999823186">
+    <title>Дивата природа на Карпатите</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101024500 +0000" channel="1519237116">
     <title>Непознатата природа на Китай</title>
   </programme>
-  <programme start="20261101011000 +0000" stop="20261101020000 +0000" channel="124345657">
-    <title>Непознатата природа на Китай</title>
+  <programme start="20261101024500 +0000" stop="20261101032500 +0000" channel="1519237116">
+    <title>Дивата природа на Карпатите</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101024500 +0000" channel="124345657">
     <title>Непознатата природа на Китай</title>
+  </programme>
+  <programme start="20261101024500 +0000" stop="20261101032500 +0000" channel="124345657">
+    <title>Дивата природа на Карпатите</title>
   </programme>
   <programme start="20261030004000 +0100" stop="20261030012500 +0100" channel="National.Geographic.es">
     <title lang="es">OVNIS: Investigando lo desconocido</title>
@@ -21013,22 +21145,28 @@
   <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="2430655089">
     <title>The Association: Postgame</title>
   </programme>
+  <programme start="20261101003000 +0000" stop="20261101030000 +0000" channel="2462143546">
+    <title>NBA Basketball</title>
+  </programme>
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="2462143546">
+    <title>The Association: Postgame</title>
+  </programme>
   <programme start="20261101003000 +0000" stop="20261101030000 +0000" channel="3513867536">
     <title>NBA Basketball</title>
   </programme>
   <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="3513867536">
     <title>The Association: Postgame</title>
   </programme>
-  <programme start="20261101013000 +0000" stop="20261101020000 +0000" channel="85708551">
-    <title>PAW Patrol</title>
-  </programme>
   <programme start="20261101020000 +0000" stop="20261101023000 +0000" channel="85708551">
     <title>PAW Patrol</title>
   </programme>
-  <programme start="20261101013000 +0000" stop="20261101020000 +0000" channel="707163099">
+  <programme start="20261101023000 +0000" stop="20261101030000 +0000" channel="85708551">
     <title>PAW Patrol</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101023000 +0000" channel="707163099">
+    <title>PAW Patrol</title>
+  </programme>
+  <programme start="20261101023000 +0000" stop="20261101030000 +0000" channel="707163099">
     <title>PAW Patrol</title>
   </programme>
   <programme start="20261030001800 +0100" stop="20261030004800 +0100" channel="Nickelodeon.es">
@@ -24081,11 +24219,11 @@
   <programme start="20261101021500 +0000" stop="20261101030000 +0000" channel="3614694247">
     <title>Rätselhafte Phänomene</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="344176452">
-    <title>Hit&apos;s 20</title>
-  </programme>
   <programme start="20261101020000 +0000" stop="20261101040000 +0000" channel="344176452">
     <title>Love Song</title>
+  </programme>
+  <programme start="20261101040000 +0000" stop="20261101060000 +0000" channel="344176452">
+    <title>Sabah Enerjisi</title>
   </programme>
   <programme start="20261031210000 +0000" stop="20261101040000 +0000" channel="538668348">
     <title>%100 Hit</title>
@@ -24093,23 +24231,17 @@
   <programme start="20261101040000 +0000" stop="20261101042500 +0000" channel="538668348">
     <title>Pop Sabah</title>
   </programme>
-  <programme start="20261031210000 +0000" stop="20261101040000 +0000" channel="714196738">
-    <title>%100 Hit</title>
-  </programme>
-  <programme start="20261101040000 +0000" stop="20261101042500 +0000" channel="714196738">
-    <title>Pop Sabah</title>
-  </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="1509063606">
-    <title>77 TV 4</title>
-  </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="1509063606">
     <title>77 TV 4</title>
   </programme>
-  <programme start="20261101010200 +0000" stop="20261101020000 +0000" channel="3839151666">
-    <title>MotoGP: GP von Großbritannien - Highlights</title>
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="1509063606">
+    <title>77 TV 4</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101023300 +0000" channel="3839151666">
     <title>AvD-Drift Championship</title>
+  </programme>
+  <programme start="20261101023300 +0000" stop="20261101043400 +0000" channel="3839151666">
+    <title>ADVENTURE: Born to Windsurf</title>
   </programme>
   <programme start="20261101000000 +0000" stop="20261101030000 +0000" channel="3346549722">
     <title>NBA Özetler</title>
@@ -24123,29 +24255,29 @@
   <programme start="20261101030000 +0000" stop="20261101050000 +0000" channel="3718336295">
     <title>World Rowing</title>
   </programme>
-  <programme start="20261101000000 +0000" stop="20261101020000 +0000" channel="1313768516">
-    <title>Moto GP</title>
-  </programme>
   <programme start="20261101020000 +0000" stop="20261101040000 +0000" channel="1313768516">
     <title>EuroLeague</title>
   </programme>
-  <programme start="20261101000000 +0000" stop="20261101020000 +0000" channel="1234604880">
-    <title>Moto GP</title>
+  <programme start="20261101040000 +0000" stop="20261101060000 +0000" channel="1313768516">
+    <title>NBA</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101040000 +0000" channel="1234604880">
     <title>EuroLeague</title>
   </programme>
-  <programme start="20261101000000 +0000" stop="20261101020000 +0000" channel="1183409452">
-    <title>Moto GP</title>
+  <programme start="20261101040000 +0000" stop="20261101060000 +0000" channel="1234604880">
+    <title>NBA</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101040000 +0000" channel="1183409452">
     <title>EuroLeague</title>
   </programme>
-  <programme start="20261101000000 +0000" stop="20261101020000 +0000" channel="3943651030">
-    <title>Moto GP</title>
+  <programme start="20261101040000 +0000" stop="20261101060000 +0000" channel="1183409452">
+    <title>NBA</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101040000 +0000" channel="3943651030">
     <title>EuroLeague</title>
+  </programme>
+  <programme start="20261101040000 +0000" stop="20261101060000 +0000" channel="3943651030">
+    <title>NBA</title>
   </programme>
   <programme start="20261101000000 +0000" stop="20261101030000 +0000" channel="919993168">
     <title>NBA Özetler</title>
@@ -24153,23 +24285,29 @@
   <programme start="20261101030000 +0000" stop="20261101050000 +0000" channel="919993168">
     <title>World Rowing</title>
   </programme>
-  <programme start="20261101000000 +0000" stop="20261101020000 +0000" channel="2341562915">
-    <title>Çerçeve</title>
-  </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="2341562915">
     <title>Delail-ül Hayrat</title>
   </programme>
-  <programme start="20261101013000 +0000" stop="20261101020000 +0000" channel="786317112">
-    <title>Kısa Programlar</title>
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="2341562915">
+    <title>Hatm-i Şerif</title>
+  </programme>
+  <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="3726238957">
+    <title>Delail-ül Hayrat</title>
+  </programme>
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="3726238957">
+    <title>Hatm-i Şerif</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="786317112">
     <title>Delail-Ül Hayrat</title>
   </programme>
-  <programme start="20261101013000 +0000" stop="20261101020000 +0000" channel="4096268883">
-    <title>Kısa Programlar</title>
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="786317112">
+    <title>Hatm-İ Şerif</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="4096268883">
     <title>Delail-Ül Hayrat</title>
+  </programme>
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="4096268883">
+    <title>Hatm-İ Şerif</title>
   </programme>
   <programme start="20261101010000 +0000" stop="20261101030000 +0000" channel="2485009235">
     <title>Muhtemel Aşk</title>
@@ -24231,11 +24369,11 @@
   <programme start="20261101014500 +0000" stop="20261101034500 +0000" channel="3131911051">
     <title>Parmak Çocuk Emma</title>
   </programme>
-  <programme start="20261101001500 +0000" stop="20261101020000 +0000" channel="257449668">
-    <title>Easter Sunday</title>
+  <programme start="20261101020000 +0000" stop="20261101034500 +0000" channel="257449668">
+    <title>Büyük Kar Taneleri</title>
   </programme>
-  <programme start="20261101001500 +0000" stop="20261101020000 +0000" channel="257449668">
-    <title>Easter Sunday</title>
+  <programme start="20261101020000 +0000" stop="20261101034500 +0000" channel="257449668">
+    <title>Büyük Kar Taneleri</title>
   </programme>
   <programme start="20261031210000 +0000" stop="20261101030000 +0000" channel="3422827985">
     <title>İtalya Kadınlar Voleybol Ligi</title>
@@ -24243,17 +24381,17 @@
   <programme start="20261101030000 +0000" stop="20261101050000 +0000" channel="3422827985">
     <title>EHF Şampiyonlar Ligi</title>
   </programme>
-  <programme start="20261031234500 +0000" stop="20261101020000 +0000" channel="1134124382">
-    <title>Απόλυτος Πράκτορας</title>
-  </programme>
   <programme start="20261101020000 +0000" stop="20261101040000 +0000" channel="1134124382">
     <title>Kung Fu</title>
   </programme>
-  <programme start="20261031234500 +0000" stop="20261101020000 +0000" channel="3209892863">
-    <title>Απόλυτος Πράκτορας</title>
+  <programme start="20261101040000 +0000" stop="20261101044500 +0000" channel="1134124382">
+    <title>Scooby-Doo! Mystery Incorporated</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101040000 +0000" channel="3209892863">
     <title>Kung Fu</title>
+  </programme>
+  <programme start="20261101040000 +0000" stop="20261101044500 +0000" channel="3209892863">
+    <title>Scooby-Doo! Mystery Incorporated</title>
   </programme>
   <programme start="20261031213000 +0000" stop="20261101043000 +0000" channel="699305923">
     <title>Dizi</title>
@@ -24315,23 +24453,23 @@
   <programme start="20261101020500 +0000" stop="20261101030000 +0000" channel="3856957052">
     <title>Gerçeği Arayanlar</title>
   </programme>
-  <programme start="20261101014500 +0000" stop="20261101015500 +0000" channel="1357624643">
-    <title>Mis Dihei</title>
+  <programme start="20261101020000 +0000" stop="20261101021500 +0000" channel="1357624643">
+    <title>Nachrichten</title>
   </programme>
-  <programme start="20261101015500 +0000" stop="20261101020000 +0000" channel="1357624643">
-    <title>Wetter</title>
+  <programme start="20261101021500 +0000" stop="20261101024500 +0000" channel="1357624643">
+    <title>SwissDinner</title>
   </programme>
-  <programme start="20261101014500 +0000" stop="20261101015500 +0000" channel="1025979520">
-    <title>Mis Dihei</title>
+  <programme start="20261101020000 +0000" stop="20261101021500 +0000" channel="1025979520">
+    <title>Nachrichten</title>
   </programme>
-  <programme start="20261101015500 +0000" stop="20261101020000 +0000" channel="1025979520">
-    <title>Wetter</title>
+  <programme start="20261101021500 +0000" stop="20261101024500 +0000" channel="1025979520">
+    <title>SwissDinner</title>
   </programme>
-  <programme start="20261101014500 +0000" stop="20261101015500 +0000" channel="3382394739">
-    <title>Mis Dihei</title>
+  <programme start="20261101020000 +0000" stop="20261101021500 +0000" channel="3382394739">
+    <title>Nachrichten</title>
   </programme>
-  <programme start="20261101015500 +0000" stop="20261101020000 +0000" channel="3382394739">
-    <title>Wetter</title>
+  <programme start="20261101021500 +0000" stop="20261101024500 +0000" channel="3382394739">
+    <title>SwissDinner</title>
   </programme>
   <programme start="20261101010000 +0000" stop="20261101023000 +0000" channel="4197507696">
     <title>Çocuklar Duymasın</title>
@@ -24363,106 +24501,106 @@
   <programme start="20261101023000 +0000" stop="20261101030000 +0000" channel="2773252030">
     <title>Müzik</title>
   </programme>
-  <programme start="20261101013000 +0000" stop="20261101020000 +0000" channel="1718429323">
-    <title>Gecenin İçinden</title>
-  </programme>
   <programme start="20261101020000 +0000" stop="20261101023000 +0000" channel="1718429323">
     <title>Gece Haberleri</title>
   </programme>
-  <programme start="20261101013000 +0000" stop="20261101020000 +0000" channel="1684631959">
-    <title>Gecenin İçinden</title>
+  <programme start="20261101023000 +0000" stop="20261101024500 +0000" channel="1718429323">
+    <title>Huzura Doğru</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101023000 +0000" channel="1684631959">
     <title>Gece Haberleri</title>
   </programme>
-  <programme start="20261101013000 +0000" stop="20261101020000 +0000" channel="2814392458">
-    <title>Gecenin İçinden</title>
+  <programme start="20261101023000 +0000" stop="20261101024500 +0000" channel="1684631959">
+    <title>Huzura Doğru</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101023000 +0000" channel="2814392458">
     <title>Gece Haberleri</title>
   </programme>
-  <programme start="20261101013000 +0000" stop="20261101020000 +0000" channel="1355881287">
-    <title>Gecenin İçinden</title>
+  <programme start="20261101023000 +0000" stop="20261101024500 +0000" channel="2814392458">
+    <title>Huzura Doğru</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101023000 +0000" channel="1355881287">
     <title>Gece Haberleri</title>
   </programme>
-  <programme start="20261101013000 +0000" stop="20261101020000 +0000" channel="3562740054">
-    <title>Gecenin İçinden</title>
+  <programme start="20261101023000 +0000" stop="20261101024500 +0000" channel="1355881287">
+    <title>Huzura Doğru</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101023000 +0000" channel="3562740054">
     <title>Gece Haberleri</title>
   </programme>
-  <programme start="20261031222000 +0000" stop="20261101020000 +0000" channel="774168016">
-    <title>Yabancı Sinema</title>
+  <programme start="20261101023000 +0000" stop="20261101024500 +0000" channel="3562740054">
+    <title>Huzura Doğru</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101034500 +0000" channel="774168016">
     <title>Hatim</title>
   </programme>
-  <programme start="20261101001500 +0000" stop="20261101020000 +0000" channel="2565972338">
-    <title>Altay - 1922 Akşehir Futbol</title>
+  <programme start="20261101034500 +0000" stop="20261101044500 +0000" channel="774168016">
+    <title>Belgesel</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101034500 +0000" channel="2565972338">
     <title>Adanaspor - Kırıkkale FK</title>
   </programme>
-  <programme start="20261101001500 +0000" stop="20261101020000 +0000" channel="1528949791">
-    <title>Altay - 1922 Akşehir Futbol</title>
+  <programme start="20261101034500 +0000" stop="20261101053000 +0000" channel="2565972338">
+    <title>Beykoz Anadolu Spor - Amasyaspor</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101034500 +0000" channel="1528949791">
     <title>Adanaspor - Kırıkkale FK</title>
   </programme>
-  <programme start="20261101001500 +0000" stop="20261101020000 +0000" channel="2046583925">
-    <title>Altay - 1922 Akşehir Futbol</title>
+  <programme start="20261101034500 +0000" stop="20261101053000 +0000" channel="1528949791">
+    <title>Beykoz Anadolu Spor - Amasyaspor</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101034500 +0000" channel="2046583925">
     <title>Adanaspor - Kırıkkale FK</title>
   </programme>
-  <programme start="20261031210000 +0000" stop="20261101020000 +0000" channel="3746683810">
-    <title>Tivibu Spor Tanıtım</title>
+  <programme start="20261101034500 +0000" stop="20261101053000 +0000" channel="2046583925">
+    <title>Beykoz Anadolu Spor - Amasyaspor</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101070000 +0000" channel="3746683810">
     <title>Tivibu Spor Tanıtım</title>
   </programme>
-  <programme start="20261031210000 +0000" stop="20261101020000 +0000" channel="478254799">
+  <programme start="20261101070000 +0000" stop="20261101100000 +0000" channel="3746683810">
     <title>Tivibu Spor Tanıtım</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101070000 +0000" channel="478254799">
     <title>Tivibu Spor Tanıtım</title>
   </programme>
-  <programme start="20261031210000 +0000" stop="20261101020000 +0000" channel="4151534486">
+  <programme start="20261101070000 +0000" stop="20261101100000 +0000" channel="478254799">
     <title>Tivibu Spor Tanıtım</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101070000 +0000" channel="4151534486">
     <title>Tivibu Spor Tanıtım</title>
   </programme>
-  <programme start="20261031210000 +0000" stop="20261101020000 +0000" channel="3794924050">
+  <programme start="20261101070000 +0000" stop="20261101100000 +0000" channel="4151534486">
     <title>Tivibu Spor Tanıtım</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101070000 +0000" channel="3794924050">
     <title>Tivibu Spor Tanıtım</title>
   </programme>
-  <programme start="20261031210000 +0000" stop="20261101020000 +0000" channel="568442751">
+  <programme start="20261101070000 +0000" stop="20261101100000 +0000" channel="3794924050">
     <title>Tivibu Spor Tanıtım</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101070000 +0000" channel="568442751">
     <title>Tivibu Spor Tanıtım</title>
   </programme>
-  <programme start="20261031210000 +0000" stop="20261101020000 +0000" channel="1004102408">
+  <programme start="20261101070000 +0000" stop="20261101100000 +0000" channel="568442751">
     <title>Tivibu Spor Tanıtım</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101070000 +0000" channel="1004102408">
     <title>Tivibu Spor Tanıtım</title>
   </programme>
-  <programme start="20261031210000 +0000" stop="20261101020000 +0000" channel="1343303170">
+  <programme start="20261101070000 +0000" stop="20261101100000 +0000" channel="1004102408">
     <title>Tivibu Spor Tanıtım</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101070000 +0000" channel="1343303170">
     <title>Tivibu Spor Tanıtım</title>
   </programme>
-  <programme start="20261031210000 +0000" stop="20261101020000 +0000" channel="3307062704">
+  <programme start="20261101070000 +0000" stop="20261101100000 +0000" channel="1343303170">
     <title>Tivibu Spor Tanıtım</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101070000 +0000" channel="3307062704">
+    <title>Tivibu Spor Tanıtım</title>
+  </programme>
+  <programme start="20261101070000 +0000" stop="20261101100000 +0000" channel="3307062704">
     <title>Tivibu Spor Tanıtım</title>
   </programme>
   <programme start="20261101013000 +0000" stop="20261101030000 +0000" channel="1406262118">
@@ -24471,40 +24609,40 @@
   <programme start="20261101030000 +0000" stop="20261101043000 +0000" channel="1406262118">
     <title>Forvet Hattı</title>
   </programme>
-  <programme start="20261101001500 +0000" stop="20261101020000 +0000" channel="2896658744">
-    <title>Altay - 1922 Akşehir Futbol</title>
-  </programme>
   <programme start="20261101020000 +0000" stop="20261101034500 +0000" channel="2896658744">
     <title>Adanaspor - Kırıkkale FK</title>
   </programme>
-  <programme start="20261101001500 +0000" stop="20261101020000 +0000" channel="3654518007">
-    <title>Altay - 1922 Akşehir Futbol</title>
+  <programme start="20261101034500 +0000" stop="20261101053000 +0000" channel="2896658744">
+    <title>Beykoz Anadolu Spor - Amasyaspor</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101034500 +0000" channel="3654518007">
     <title>Adanaspor - Kırıkkale FK</title>
   </programme>
-  <programme start="20261031210000 +0000" stop="20261101020000 +0000" channel="2502606333">
-    <title>Tivibu Spor Tanıtım</title>
+  <programme start="20261101034500 +0000" stop="20261101053000 +0000" channel="3654518007">
+    <title>Beykoz Anadolu Spor - Amasyaspor</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101070000 +0000" channel="2502606333">
     <title>Tivibu Spor Tanıtım</title>
   </programme>
-  <programme start="20261031210000 +0000" stop="20261101020000 +0000" channel="1465680660">
+  <programme start="20261101070000 +0000" stop="20261101100000 +0000" channel="2502606333">
     <title>Tivibu Spor Tanıtım</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101070000 +0000" channel="1465680660">
     <title>Tivibu Spor Tanıtım</title>
   </programme>
-  <programme start="20261031210000 +0000" stop="20261101020000 +0000" channel="2186389950">
+  <programme start="20261101070000 +0000" stop="20261101100000 +0000" channel="1465680660">
     <title>Tivibu Spor Tanıtım</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101070000 +0000" channel="2186389950">
     <title>Tivibu Spor Tanıtım</title>
   </programme>
-  <programme start="20261031210000 +0000" stop="20261101020000 +0000" channel="2616624010">
+  <programme start="20261101070000 +0000" stop="20261101100000 +0000" channel="2186389950">
     <title>Tivibu Spor Tanıtım</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101070000 +0000" channel="2616624010">
+    <title>Tivibu Spor Tanıtım</title>
+  </programme>
+  <programme start="20261101070000 +0000" stop="20261101100000 +0000" channel="2616624010">
     <title>Tivibu Spor Tanıtım</title>
   </programme>
   <programme start="20261101013600 +0000" stop="20261101022000 +0000" channel="1766840660">
@@ -24585,10 +24723,10 @@
   <programme start="20261101022800 +0000" stop="20261101023000 +0000" channel="2005305132">
     <title>İstiklal Marşı</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="3317656516">
+  <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="3317656516">
     <title>No Data</title>
   </programme>
-  <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="3317656516">
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="3317656516">
     <title>No Data</title>
   </programme>
   <programme start="20261101010000 +0000" stop="20261101025800 +0000" channel="2481339809">
@@ -24639,17 +24777,23 @@
   <programme start="20261101025500 +0000" stop="20261101032500 +0000" channel="836826697">
     <title>Yiyeceğin Serüveni</title>
   </programme>
-  <programme start="20261101013500 +0000" stop="20261101020000 +0000" channel="685794830">
-    <title>Maysa ve Bulut</title>
-  </programme>
   <programme start="20261101020000 +0000" stop="20261101022500 +0000" channel="685794830">
     <title>Nasreddin Hoca Zaman Yolcusu</title>
   </programme>
-  <programme start="20261101013500 +0000" stop="20261101020000 +0000" channel="792228122">
-    <title>Maysa ve Bulut</title>
+  <programme start="20261101022500 +0000" stop="20261101025000 +0000" channel="685794830">
+    <title>Kare</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101022500 +0000" channel="792228122">
     <title>Nasreddin Hoca Zaman Yolcusu</title>
+  </programme>
+  <programme start="20261101022500 +0000" stop="20261101025000 +0000" channel="792228122">
+    <title>Kare</title>
+  </programme>
+  <programme start="20261101020000 +0000" stop="20261101022500 +0000" channel="3979837190">
+    <title>Nasreddin Hoca Zaman Yolcusu</title>
+  </programme>
+  <programme start="20261101022500 +0000" stop="20261101025000 +0000" channel="3979837190">
+    <title>Kare</title>
   </programme>
   <programme start="20261101014000 +0000" stop="20261101020500 +0000" channel="1101849390">
     <title>Mercanya</title>
@@ -24669,35 +24813,35 @@
   <programme start="20261101022000 +0000" stop="20261101024500 +0000" channel="1656863374">
     <title>Gökyüzü Maceraları</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="2003703357">
-    <title>Haber 04</title>
-  </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="2003703357">
     <title>Haber 05</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="1890976041">
-    <title>Haber 04</title>
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="2003703357">
+    <title>Haber 06</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="1890976041">
     <title>Haber 05</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="2579401878">
-    <title>Haber 04</title>
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="1890976041">
+    <title>Haber 06</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="2579401878">
     <title>Haber 05</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="2057965553">
-    <title>Haber 04</title>
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="2579401878">
+    <title>Haber 06</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="2057965553">
     <title>Haber 05</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="93108665">
-    <title>Haber 04</title>
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="2057965553">
+    <title>Haber 06</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="93108665">
     <title>Haber 05</title>
+  </programme>
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="93108665">
+    <title>Haber 06</title>
   </programme>
   <programme start="20261101003000 +0000" stop="20261101023000 +0000" channel="175696837">
     <title>Meryem</title>
@@ -24735,11 +24879,11 @@
   <programme start="20261101021500 +0000" stop="20261101030000 +0000" channel="433581315">
     <title>Melike İle Müziğin Ritmi</title>
   </programme>
-  <programme start="20261101013500 +0000" stop="20261101020000 +0000" channel="550045102">
-    <title>Maysa ve Bulut</title>
-  </programme>
   <programme start="20261101020000 +0000" stop="20261101022500 +0000" channel="550045102">
     <title>Nasreddin Hoca Zaman Yolcusu</title>
+  </programme>
+  <programme start="20261101022500 +0000" stop="20261101025000 +0000" channel="550045102">
+    <title>Kare</title>
   </programme>
   <programme start="20261101004500 +0000" stop="20261101023000 +0000" channel="2114335424">
     <title>Fatih Karagümrük-Pendikspor</title>
@@ -24810,29 +24954,29 @@
   <programme start="20261101035500 +0000" stop="20261101040000 +0000" channel="4095879853">
     <title>İstiklal Marşı Çocuk</title>
   </programme>
-  <programme start="20261101013000 +0000" stop="20261101020000 +0000" channel="3203147403">
-    <title>NexTech</title>
-  </programme>
   <programme start="20261101020000 +0000" stop="20261101023000 +0000" channel="3203147403">
     <title>News</title>
   </programme>
-  <programme start="20261101013000 +0000" stop="20261101020000 +0000" channel="3107205535">
-    <title>NexTech</title>
+  <programme start="20261101023000 +0000" stop="20261101030000 +0000" channel="3203147403">
+    <title>Money Talks</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101023000 +0000" channel="3107205535">
     <title>News</title>
   </programme>
-  <programme start="20261101013000 +0000" stop="20261101020000 +0000" channel="3985615117">
-    <title>NexTech</title>
+  <programme start="20261101023000 +0000" stop="20261101030000 +0000" channel="3107205535">
+    <title>Money Talks</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101023000 +0000" channel="3985615117">
     <title>News</title>
   </programme>
-  <programme start="20261101013000 +0000" stop="20261101020000 +0000" channel="4076064178">
-    <title>NexTech</title>
+  <programme start="20261101023000 +0000" stop="20261101030000 +0000" channel="3985615117">
+    <title>Money Talks</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101023000 +0000" channel="4076064178">
     <title>News</title>
+  </programme>
+  <programme start="20261101023000 +0000" stop="20261101030000 +0000" channel="4076064178">
+    <title>Money Talks</title>
   </programme>
   <programme start="20261101013000 +0000" stop="20261101022800 +0000" channel="21895121">
     <title>İpek&apos;çe Sohbetler</title>
@@ -24840,11 +24984,11 @@
   <programme start="20261101022800 +0000" stop="20261101023000 +0000" channel="21895121">
     <title>İstiklal Marşı</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="4073129368">
-    <title>Документален филм</title>
-  </programme>
   <programme start="20261101020000 +0000" stop="20261101040000 +0000" channel="4073129368">
     <title>“Съботно настроение” – музикално развлекателен блок</title>
+  </programme>
+  <programme start="20261101040000 +0000" stop="20261101043000 +0000" channel="4073129368">
+    <title>“Хармония и здраве” – гимнастика за духа и тялото</title>
   </programme>
   <programme start="20261101013000 +0000" stop="20261101030000 +0000" channel="3769488982">
     <title>Haber Bülteni</title>
@@ -24948,11 +25092,11 @@
   <programme start="20261101023000 +0000" stop="20261101043000 +0000" channel="3472698776">
     <title>Cevap Ver Türkiye</title>
   </programme>
-  <programme start="20261101013000 +0000" stop="20261101020000 +0000" channel="1225673773">
-    <title>Tabuta Sığmayanlar</title>
-  </programme>
   <programme start="20261101020000 +0000" stop="20261101040000 +0000" channel="1225673773">
     <title>Kur&apos;an&apos;ın İzinde</title>
+  </programme>
+  <programme start="20261101040000 +0000" stop="20261101044500 +0000" channel="1225673773">
+    <title>Ketebe</title>
   </programme>
   <programme start="20261101013900 +0000" stop="20261101022900 +0000" channel="935671761">
     <title>Belgesel</title>
@@ -24990,29 +25134,29 @@
   <programme start="20261101031500 +0000" stop="20261101040500 +0000" channel="208162889">
     <title>Lady Killer</title>
   </programme>
-  <programme start="20261101013000 +0000" stop="20261101020000 +0000" channel="1221661755">
-    <title>Tabuta Sığmayanlar</title>
-  </programme>
   <programme start="20261101020000 +0000" stop="20261101040000 +0000" channel="1221661755">
     <title>Kur&apos;an&apos;ın İzinde</title>
   </programme>
-  <programme start="20261101013000 +0000" stop="20261101020000 +0000" channel="1182480796">
-    <title>Tabuta Sığmayanlar</title>
+  <programme start="20261101040000 +0000" stop="20261101044500 +0000" channel="1221661755">
+    <title>Ketebe</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101040000 +0000" channel="1182480796">
     <title>Kur&apos;an&apos;ın İzinde</title>
   </programme>
-  <programme start="20261031233000 +0000" stop="20261101020000 +0000" channel="1840664880">
-    <title>Sinema</title>
+  <programme start="20261101040000 +0000" stop="20261101044500 +0000" channel="1182480796">
+    <title>Ketebe</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101040000 +0000" channel="1840664880">
     <title>Ebru Akel İle Türkiye Çiçek Açıyor</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="2012038243">
-    <title>Özde Yaşam</title>
+  <programme start="20261101040000 +0000" stop="20261101060000 +0000" channel="1840664880">
+    <title>Çizgi Film</title>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="2012038243">
     <title>Sanathane</title>
+  </programme>
+  <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="2012038243">
+    <title>Haber Bülteni</title>
   </programme>
   <programme start="20261031230000 +0000" stop="20261101040000 +0000" channel="216740557">
     <title>Tekrar Yayın</title>

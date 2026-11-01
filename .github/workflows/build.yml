@@ -53,44 +53,6 @@ jobs:
         working-directory: external/epg
         run: npm ci --no-audit --no-progress
 
-      # digiturk.com.tr and tvplus.com.tr consistently block GitHub Actions'
-      # runner IPs (403 / ECONNRESET / 503 at auth) with 0 programs fetched,
-      # so they're dropped to save CI time; epgshare01 already covers those
-      # channels as a fallback in scripts/build.js.
-      - name: Grab TR EPG (dsmart)
-        working-directory: external/epg
-        continue-on-error: true
-        timeout-minutes: 20
-        run: |
-          npm run grab --- \
-            --sites=dsmart.com.tr \
-            --lang=tr \
-            --maxConnections=3 \
-            --timeout=20000 \
-            --delay=500 \
-            --output=guides/{site}.xml || true
-          ls -la guides/ || true
-
-      # turksatkablo.com.tr serves an incomplete certificate chain ("unable
-      # to verify the first certificate"), unrelated to the data itself, so
-      # cert verification is disabled only for this read-only public EPG
-      # fetch step.
-      - name: Grab TR EPG (turksatkablo)
-        working-directory: external/epg
-        continue-on-error: true
-        timeout-minutes: 10
-        env:
-          NODE_TLS_REJECT_UNAUTHORIZED: "0"
-        run: |
-          npm run grab --- \
-            --sites=turksatkablo.com.tr \
-            --lang=tr \
-            --maxConnections=3 \
-            --timeout=20000 \
-            --delay=500 \
-            --output=guides/{site}.xml || true
-          ls -la guides/ || true
-
       - name: Generate iptv.m3u and epg.xml
         env:
           PROXY_BASE: ${{ vars.PROXY_BASE }}

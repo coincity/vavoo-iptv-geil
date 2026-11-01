@@ -81,9 +81,9 @@ https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/2047635278
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3009101585
 #EXTINF:-1 tvg-id="3037841209" tvg-name="BLOOMBERG TV EMEA LIVE EVENT (6)" tvg-logo="" group-title="Otros",BLOOMBERG TV EMEA LIVE EVENT (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3037841209
-#EXTINF:-1 tvg-id="Boing.es" tvg-name="BOING (1)" tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="Otros",BOING (1)
+#EXTINF:-1 tvg-id="Boing.es" tvg-name="BOING (1)" tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="Infantil",BOING (1)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/636171559
-#EXTINF:-1 tvg-id="Boing.es" tvg-name="BOING (6)" tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="Otros",BOING (6)
+#EXTINF:-1 tvg-id="Boing.es" tvg-name="BOING (6)" tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="Infantil",BOING (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3971769720
 #EXTINF:-1 tvg-id="BOM.Cine.es" tvg-name="BOM CINE (6)" tvg-logo="https://bomcine.com/img/ico/logo-bom-negro.svg" group-title="Otros",BOM CINE (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/2566347328
@@ -131,9 +131,9 @@ https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3490700601
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/406958643
 #EXTINF:-1 tvg-id="1795451587" tvg-name="CANAL ODISEA (6)" tvg-logo="" group-title="Documentales",CANAL ODISEA (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1795451587
-#EXTINF:-1 tvg-id="3910659553" tvg-name="CANAL PANDA (1)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/08/Canal_Panda_2015.png" group-title="Otros",CANAL PANDA (1)
+#EXTINF:-1 tvg-id="3910659553" tvg-name="CANAL PANDA (1)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/08/Canal_Panda_2015.png" group-title="Infantil",CANAL PANDA (1)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3910659553
-#EXTINF:-1 tvg-id="2717687042" tvg-name="CANAL PANDA (6)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/08/Canal_Panda_2015.png" group-title="Otros",CANAL PANDA (6)
+#EXTINF:-1 tvg-id="2717687042" tvg-name="CANAL PANDA (6)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/08/Canal_Panda_2015.png" group-title="Infantil",CANAL PANDA (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/2717687042
 #EXTINF:-1 tvg-id="1111750157" tvg-name="CANAL PARLAMENTO (6)" tvg-logo="https://i.imgur.com/BUO0wH6.png" group-title="Otros",CANAL PARLAMENTO (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1111750157
@@ -195,7 +195,7 @@ https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3907910812
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3582842156
 #EXTINF:-1 tvg-id="DAZN.4.es" tvg-name="DAZN 4 (6)" tvg-logo="" group-title="Otros",DAZN 4 (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1739393340
-#EXTINF:-1 tvg-id="DAZN.F1.es" tvg-name="DAZN F1 (6)" tvg-logo="" group-title="Otros",DAZN F1 (6)
+#EXTINF:-1 tvg-id="DAZN.F1.es" tvg-name="DAZN F1 (6)" tvg-logo="" group-title="Deportes",DAZN F1 (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/3129220252
 #EXTINF:-1 tvg-id="1591618250" tvg-name="DAZN LALIGA 1 (6)" tvg-logo="" group-title="Deportes",DAZN LALIGA 1 (6)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1591618250
@@ -385,7 +385,7 @@ https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1285043320
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1188166343
 #EXTINF:-1 tvg-id="2748019555" tvg-name="MOVISTAR DRAMA HD (1)" tvg-logo="" group-title="Otros",MOVISTAR DRAMA HD (1)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/2748019555
-#EXTINF:-1 tvg-id="1826839470" tvg-name="MOVISTAR F1 HD (1)" tvg-logo="" group-title="Otros",MOVISTAR F1 HD (1)
+#EXTINF:-1 tvg-id="1826839470" tvg-name="MOVISTAR F1 HD (1)" tvg-logo="" group-title="Deportes",MOVISTAR F1 HD (1)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/1826839470
 #EXTINF:-1 tvg-id="Movistar.Golf.es" tvg-name="MOVISTAR GOLF HD (1)" tvg-logo="" group-title="Otros",MOVISTAR GOLF HD (1)
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/2703480816
